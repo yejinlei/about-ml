@@ -1,0 +1,14 @@
+---
+title: "有关R语言"
+author: "yejinlei"
+date: "2018年1月26日"
+output: html_document
+---
+
+# 分布
+```{r}
+set.seed(1)
+x<-seq(0,10,length.out = 1000)
+y1<-dunif(x, 0,1)
+plot(x,y1,type = 'l', main = "均匀分布的概率密度函数")
+```
