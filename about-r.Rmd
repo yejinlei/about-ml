@@ -6,7 +6,7 @@ output: html_document
 publish: http://rpubs.com/yejinlei/about-r
 ---
 
-# R语言数据结构
+# 一、R编程
 ## 赋值
 ```{r}
 #赋值，1->X、也可以assign("X", 1)非常灵活
@@ -34,10 +34,35 @@ X<-c(T,1,F);X
 ```
 ## 列表，异构数据有序容器
 
-# 分布
+# 二、统计学
+## 数据描述
+```{r}
+mean(1:50) #均值
+mean(c(1:50,NA), na.rm = T) #na.rm默认F，T允许有缺失值，直接忽略
+mean(c(1:50,0,100), trim = 0.1) #截断均值，trim范围在[0, 0.5)百分比，对排序后的数据去头尾（2*n*trim个数），类似比赛中“去掉一个最高分，去掉一个最低分，最后得分是×分“
+```
+
+## 数据分布
 ```{r}
 set.seed(1)
 x<-seq(0,10,length.out = 1000)
 y1<-dunif(x, 0,1)
 plot(x,y1,type = 'l', main = "均匀分布的概率密度函数")
 ```
+
+# 三、数据分析
+## 数据预处理
+1. 导入数据
+```{r}
+library(readr)
+dataset = read.csv("./data/Data.csv");dataset
+```
+
+2. 缺失数据
+```{r}
+is.na(dataset) #用于判断缺失值，缺失值用TRUE表示，否则FALSE
+
+library(VIM);aggr(dataset) #可视化
+```
+
+3. 分类数据
