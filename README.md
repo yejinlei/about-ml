@@ -58,3 +58,6 @@
 - 从可行解空间所有可行点中确定最优解；
 
 ##### 2、单纯形法（simplex method）
+
+## 传统机器学习
+![scikit-learn algorithm cheat-sheet](http://scikit-learn.org/stable/_static/ml_map.png)
