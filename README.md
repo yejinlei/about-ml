@@ -61,3 +61,5 @@
 
 ## 传统机器学习
 ![scikit-learn algorithm cheat-sheet](http://scikit-learn.org/stable/_static/ml_map.png)
+
+![scikit-learn algorithm cheat-sheet](机器学习与人工智能/sklearn.png)
