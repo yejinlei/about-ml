@@ -6,63 +6,44 @@ output: html_document
 publish: http://rpubs.com/yejinlei/about-r
 ---
 
-# 一、R编程
-## 赋值
+---
+title: "有关R语言"
+author: "yejinlei"
+date: "2018年1月26日"
+output: html_document
+publish: http://rpubs.com/yejinlei/about-r
+---
+
+# 参数估计
+## 点估计之极大似然估计MLE
 ```{r}
-#赋值，1->X、也可以assign("X", 1)非常灵活
-X<-1;X
+
 ```
 
-## 向量，同构数据有序容器
+## 点估计之矩法估计
 ```{r}
-#组合
-X<-c(1,2,3);X
-X<-c(1:9, 10);X
 
-#等差数列
-X<-seq(1,10);X #等同X<-1:10
-X<-seq(from = -5, to = 5, by = 2);X #[-5, 5],步长2
-X<-seq(length=5, from=-1, by=.1);X #从-1开始，步长0.1，总长为5的数列
-
-#重复
-X<-rep(1:3, times=3);X #数列重复3次
-X<-rep(1:3, each=3);X #数列中元素每个重复3次
-
-#同构
-X<-c(1,2,"a");X
-X<-c(T,1,F);X
-```
-## 列表，异构数据有序容器
-
-# 二、统计学
-## 数据描述
-```{r}
-mean(1:50) #均值
-mean(c(1:50,NA), na.rm = T) #na.rm默认F，T允许有缺失值，直接忽略
-mean(c(1:50,0,100), trim = 0.1) #截断均值，trim范围在[0, 0.5)百分比，对排序后的数据去头尾（2*n*trim个数），类似比赛中“去掉一个最高分，去掉一个最低分，最后得分是×分“
 ```
 
-## 数据分布
+# 线性回归
+## 简单线性回归
 ```{r}
-set.seed(1)
-x<-seq(0,10,length.out = 1000)
-y1<-dunif(x, 0,1)
-plot(x,y1,type = 'l', main = "均匀分布的概率密度函数")
+
 ```
 
-# 三、数据分析
-## 数据预处理
-1. 导入数据
+## 多元线性回归
 ```{r}
-library(readr)
-dataset = read.csv("./data/Data.csv");dataset
+
 ```
 
-2. 缺失数据
+## 广义线性回归
 ```{r}
-is.na(dataset) #用于判断缺失值，缺失值用TRUE表示，否则FALSE
 
-library(VIM);aggr(dataset) #可视化
 ```
 
-3. 分类数据
+## 广义可加模型
+```{r}
+
+```
+
+# 模式识别
