@@ -20,14 +20,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="1622.4363762604394" width="2408.904483845969" x="97.41919524207535" y="-619.2103488111047"/>
+              <y:Geometry height="1906.8257730005857" width="2531.093906988773" x="91.03360863860718" y="-618.2630651253603"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CC00" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="2408.904483845969" x="0.0" y="0.0">监督学习</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CC00" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="2531.093906988773" x="0.0" y="0.0">监督学习</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="27" leftF="27.490317142643192" right="274" rightF="273.8084183932792" top="447" topF="447.45605390067885"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="510" topF="509.77354273679464"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -49,14 +49,14 @@
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="1122.6038575160105" width="936.3673034875363" x="139.90951238471854" y="-134.3778300666759"/>
+                  <y:Geometry height="1344.6757654200412" width="1198.4498095954546" x="106.03360863860718" y="-71.11305754481569"/>
                   <y:Fill color="#CCFFCC" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="936.3673034875363" x="0.0" y="0.0">回归，决策函数ｙ=f(X)</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1198.4498095954546" x="0.0" y="0.0">回归，决策函数ｙ=f(X)</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="39" bottomF="39.26336708191616" left="23" leftF="23.494152394271737" right="2" rightF="1.657252049308454" top="185" topF="184.6525313538291"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="147" topF="147.2760665100791"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -78,14 +78,14 @@
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="846.3114942365153" width="881.2158990439561" x="178.40366477899028" y="87.65116613090319"/>
+                      <y:Geometry height="1145.0232340662121" width="1168.4498095954546" x="121.03360863860718" y="113.5394738090134"/>
                       <y:Fill color="#F5F5F5" transparent="false"/>
                       <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="881.2158990439561" x="0.0" y="0.0">多元回归分析</y:NodeLabel>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1168.4498095954546" x="0.0" y="0.0">多元回归分析</y:NodeLabel>
                       <y:Shape type="roundrectangle"/>
                       <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                       <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                      <y:BorderInsets bottom="0" bottomF="0.0" left="1" leftF="1.3251953125" right="54" rightF="54.48859368382546" top="0" topF="0.0"/>
+                      <y:BorderInsets bottom="98" bottomF="98.28612759780776" left="0" leftF="0.0" right="53" rightF="52.62695437404432" top="0" topF="0.0"/>
                     </y:GroupNode>
                     <y:GroupNode>
                       <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -107,14 +107,14 @@
                     <y:ProxyAutoBoundsNode>
                       <y:Realizers active="0">
                         <y:GroupNode>
-                          <y:Geometry height="372.8937489794747" width="332.8602905153831" x="528.2706796237379" y="210.23462376830628"/>
+                          <y:Geometry height="143.1615882557469" width="315.7828473283969" x="554.2181641621657" y="344.8582773035115"/>
                           <y:Fill color="#F5F5F5" transparent="false"/>
                           <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#993366" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="332.8602905153831" x="0.0" y="0.0">广义线性模型GLM，可以非连续且指数分布族</y:NodeLabel>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#993366" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="315.7828473283969" x="0.0" y="0.0">广义线性模型GLM，因变量服从指数分布族</y:NodeLabel>
                           <y:Shape type="roundrectangle"/>
                           <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                           <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="76" rightF="76.2794189692338" top="0" topF="0.0"/>
+                          <y:BorderInsets bottom="14" bottomF="14.144004425341905" left="40" leftF="39.78183583783425" right="61" rightF="61.048672694307356" top="6" topF="5.7652578527385"/>
                         </y:GroupNode>
                         <y:GroupNode>
                           <y:Geometry height="50.0" width="50.0" x="528.2706796237379" y="286.80554430602825"/>
@@ -133,10 +133,10 @@
                     <node id="n0::n0::n0::n0::n0">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="543.2706796237379" y="247.61108861205628"/>
+                          <y:Geometry height="30.0" width="82.95233879625528" x="609.0" y="388.0"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.68359375" x="15.518493640383099" y="10.6494140625">ridge岭回归<y:LabelModel>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.357421875" x="4.797458460627695" y="5.6494140625">Poission回归<y:LabelModel>
                               <y:SmartNodeLabelModel distance="4.0"/>
                             </y:LabelModel>
                             <y:ModelParameter>
@@ -149,139 +149,11 @@
                     <node id="n0::n0::n0::n0::n1">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="543.2706796237379" y="305.5986420678625"/>
+                          <y:Geometry height="30.0" width="82.95233879625528" x="711.0" y="428.8758611339165"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.013671875" x="20.8534545778831" y="10.6494140625">lasso回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n2">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="543.2706796237379" y="362.91040964598744"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.013671875" x="20.8534545778831" y="3.298828125">适应性
-lasso回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n3">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="543.2706796237379" y="420.2221772241124"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.860290515383099" y="10.6494140625">偏最小二乘回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n4">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="247.61108861205628"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="28.8602905153831" y="10.6494140625">回归树<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n5">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="305.5986420678625"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.369140625" x="12.175720202883099" y="10.6494140625">boosting回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n6">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="362.91040964598744"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.708984375" x="13.505798327883099" y="10.6494140625">bagging回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n7">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="420.2221772241124"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="10.860290515383099" y="10.6494140625">随机森林回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n8">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="474.1752749859467"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.860290515383099" y="10.6494140625">支持向量机回归<y:LabelModel>
-                              <y:SmartNodeLabelModel distance="4.0"/>
-                            </y:LabelModel>
-                            <y:ModelParameter>
-                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                            </y:ModelParameter>
-                          </y:NodeLabel>
-                        </y:GenericNode>
-                      </data>
-                    </node>
-                    <node id="n0::n0::n0::n0::n9">
-                      <data key="d6">
-                        <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="670.9912606545041" y="528.128372747781"/>
-                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.0" x="-1.1397094846169011" y="10.6494140625">人工神经网络回归<y:LabelModel>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="39.476169398127695" y="13.0">
+                            <y:LabelModel>
                               <y:SmartNodeLabelModel distance="4.0"/>
                             </y:LabelModel>
                             <y:ModelParameter>
@@ -296,7 +168,7 @@ lasso回归<y:LabelModel>
                 <node id="n0::n0::n0::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.terminator">
-                      <y:Geometry height="40.0" width="97.7205810307662" x="625.3405343660464" y="125.02763097465319"/>
+                      <y:Geometry height="40.0" width="97.7205810307662" x="635.1657296785464" y="150.9159386527634"/>
                       <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.860290515383099" y="10.6494140625">多重共线性检测<y:LabelModel>
@@ -315,14 +187,14 @@ lasso回归<y:LabelModel>
                     <y:ProxyAutoBoundsNode>
                       <y:Realizers active="0">
                         <y:GroupNode>
-                          <y:Geometry height="311.85779502745913" width="461.8602905153831" x="528.2706796237379" y="607.1048653399594"/>
+                          <y:Geometry height="311.85779502745913" width="488.1397094846169" x="534.7197918428412" y="548.0525218004287"/>
                           <y:Fill color="#F5F5F5" transparent="false"/>
                           <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#CC99FF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="461.8602905153831" x="0.0" y="0.0">非线性模型</y:NodeLabel>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#CC99FF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="488.1397094846169" x="0.0" y="0.0">非线性模型</y:NodeLabel>
                           <y:Shape type="roundrectangle"/>
                           <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                           <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                          <y:BorderInsets bottom="4" bottomF="4.241357932137134" left="31" leftF="31.372256438030945" right="303" rightF="302.76745304658596" top="0" topF="0.0"/>
+                          <y:BorderInsets bottom="4" bottomF="4.241357932137134" left="45" leftF="44.511965922647846" right="274" rightF="273.90716253120286" top="0" topF="0.0"/>
                         </y:GroupNode>
                         <y:GroupNode>
                           <y:Geometry height="50.0" width="50.0" x="724.0028677963688" y="607.1048653399594"/>
@@ -341,7 +213,7 @@ lasso回归<y:LabelModel>
                     <node id="n0::n0::n0::n2::n0">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="574.6429360617689" y="644.4813301837094"/>
+                          <y:Geometry height="40.0" width="97.7205810307662" x="594.2317577654891" y="585.4289866441787"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
                           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.0" x="16.8602905153831" y="10.6494140625">多项式回归<y:LabelModel>
@@ -357,7 +229,7 @@ lasso回归<y:LabelModel>
                     <node id="n0::n0::n0::n2::n1">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="574.6429360617689" y="696.4688836395156"/>
+                          <y:Geometry height="40.0" width="97.7205810307662" x="594.2317577654891" y="637.416540099985"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
                           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="22.8602905153831" y="10.6494140625">阶梯函数<y:LabelModel>
@@ -373,7 +245,7 @@ lasso回归<y:LabelModel>
                     <node id="n0::n0::n0::n2::n2">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="574.6429360617689" y="755.7461955236688"/>
+                          <y:Geometry height="40.0" width="97.7205810307662" x="594.2317577654891" y="696.6938519841382"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
                           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="22.8602905153831" y="10.6494140625">回归样条<y:LabelModel>
@@ -389,7 +261,7 @@ lasso回归<y:LabelModel>
                     <node id="n0::n0::n0::n2::n3">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="574.6429360617689" y="807.733748979475"/>
+                          <y:Geometry height="40.0" width="97.7205810307662" x="594.2317577654891" y="748.6814054399443"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
                           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="22.8602905153831" y="10.6494140625">局部回归<y:LabelModel>
@@ -405,10 +277,11 @@ lasso回归<y:LabelModel>
                     <node id="n0::n0::n0::n2::n4">
                       <data key="d6">
                         <y:GenericNode configuration="com.yworks.flowchart.process">
-                          <y:Geometry height="40.0" width="97.7205810307662" x="574.6429360617689" y="859.7213024352814"/>
+                          <y:Geometry height="40.0" width="139.7205810307662" x="594.2317577654891" y="800.6689588957507"/>
                           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="10.860290515383099" y="10.6494140625">广义可加模型<y:LabelModel>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.0" x="7.860290515383099" y="3.298828125">广义可加模型（回归）
+GAM<y:LabelModel>
                               <y:SmartNodeLabelModel distance="4.0"/>
                             </y:LabelModel>
                             <y:ModelParameter>
@@ -426,14 +299,14 @@ lasso回归<y:LabelModel>
                     <y:ProxyAutoBoundsNode>
                       <y:Realizers active="0">
                         <y:GroupNode>
-                          <y:Geometry height="708.7280365991122" width="264.33984375" x="194.72886009149028" y="210.23462376830628"/>
+                          <y:Geometry height="871.7771839872514" width="325.78284732839694" x="136.03360863860718" y="273.4993962901665"/>
                           <y:Fill color="#F5F5F5" transparent="false"/>
                           <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#00FFFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="264.33984375" x="0.0" y="0.0">线性回归模型(多元)，服从正态分布</y:NodeLabel>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#00FFFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="325.78284732839694" x="0.0" y="0.0">线性回归模型(多元)，因变量服从正态分布</y:NodeLabel>
                           <y:Shape type="roundrectangle"/>
                           <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                           <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                          <y:BorderInsets bottom="383" bottomF="383.05225072143105" left="0" leftF="0.0" right="44" rightF="44.0" top="118" topF="118.0"/>
+                          <y:BorderInsets bottom="194" bottomF="194.13940283400632" left="69" leftF="68.5204467653831" right="37" rightF="36.92255681301384" top="118" topF="118.0"/>
                         </y:GroupNode>
                         <y:GroupNode>
                           <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -455,7 +328,7 @@ lasso回归<y:LabelModel>
                         <y:ProxyAutoBoundsNode>
                           <y:Realizers active="0">
                             <y:GroupNode>
-                              <y:Geometry height="155.29932103393116" width="190.33984375" x="209.72886009149028" y="365.6110886120563"/>
+                              <y:Geometry height="155.29932103393116" width="190.33984375" x="219.55405540399028" y="428.8758611339165"/>
                               <y:Fill color="#F5F5F5" transparent="false"/>
                               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#FFFF99" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="190.33984375" x="0.0" y="0.0">简单线性回归(一元)</y:NodeLabel>
@@ -481,7 +354,7 @@ lasso回归<y:LabelModel>
                         <node id="n0::n0::n0::n3::n0::n0">
                           <data key="d6">
                             <y:GenericNode configuration="com.yworks.flowchart.process">
-                              <y:Geometry height="40.0" width="108.0" x="254.06870384149028" y="416.9875534558063"/>
+                              <y:Geometry height="40.0" width="108.0" x="263.8938991539903" y="480.2523259776665"/>
                               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                               <y:BorderStyle color="#000000" type="line" width="1.0"/>
                               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.99609375" x="8.001953125" y="3.298828125">简单线性回归LR
@@ -497,6 +370,231 @@ lasso回归<y:LabelModel>
                         </node>
                       </graph>
                     </node>
+                    <node id="n0::n0::n0::n3::n1">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="97.7205810307662" x="255.5059820838107" y="896.1371774434116"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.860290515383099" y="10.6494140625">偏最小二乘回归<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n3::n2" yfiles.foldertype="group">
+                      <data key="d4"/>
+                      <data key="d5"/>
+                      <data key="d6">
+                        <y:ProxyAutoBoundsNode>
+                          <y:Realizers active="0">
+                            <y:GroupNode>
+                              <y:Geometry height="207.67578587768116" width="190.33984375" x="219.55405540399028" y="632.9931730180696"/>
+                              <y:Fill color="#F5F5F5" transparent="false"/>
+                              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="190.33984375" x="0.0" y="0.0">压缩估计</y:NodeLabel>
+                              <y:Shape type="roundrectangle"/>
+                              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                              <y:BorderInsets bottom="0" bottomF="0.0" left="21" leftF="20.951926679820417" right="42" rightF="41.667336039413385" top="0" topF="0.0"/>
+                            </y:GroupNode>
+                            <y:GroupNode>
+                              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                              <y:Fill color="#F5F5F5" transparent="false"/>
+                              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 35</y:NodeLabel>
+                              <y:Shape type="roundrectangle"/>
+                              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                            </y:GroupNode>
+                          </y:Realizers>
+                        </y:ProxyAutoBoundsNode>
+                      </data>
+                      <graph edgedefault="directed" id="n0::n0::n0::n3::n2:">
+                        <node id="n0::n0::n0::n3::n2::n0">
+                          <data key="d6">
+                            <y:GenericNode configuration="com.yworks.flowchart.process">
+                              <y:Geometry height="40.0" width="97.7205810307662" x="255.5059820838107" y="670.3696378618196"/>
+                              <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.68359375" x="15.518493640383099" y="10.6494140625">ridge岭回归<y:LabelModel>
+                                  <y:SmartNodeLabelModel distance="4.0"/>
+                                </y:LabelModel>
+                                <y:ModelParameter>
+                                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                                </y:ModelParameter>
+                              </y:NodeLabel>
+                            </y:GenericNode>
+                          </data>
+                        </node>
+                        <node id="n0::n0::n0::n3::n2::n1">
+                          <data key="d6">
+                            <y:GenericNode configuration="com.yworks.flowchart.process">
+                              <y:Geometry height="40.0" width="97.7205810307662" x="255.5059820838107" y="728.3571913176258"/>
+                              <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.013671875" x="20.8534545778831" y="10.6494140625">lasso回归<y:LabelModel>
+                                  <y:SmartNodeLabelModel distance="4.0"/>
+                                </y:LabelModel>
+                                <y:ModelParameter>
+                                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                                </y:ModelParameter>
+                              </y:NodeLabel>
+                            </y:GenericNode>
+                          </data>
+                        </node>
+                        <node id="n0::n0::n0::n3::n2::n2">
+                          <data key="d6">
+                            <y:GenericNode configuration="com.yworks.flowchart.process">
+                              <y:Geometry height="40.0" width="97.7205810307662" x="255.5059820838107" y="785.6689588957507"/>
+                              <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.013671875" x="20.8534545778831" y="3.298828125">适应性
+lasso回归<y:LabelModel>
+                                  <y:SmartNodeLabelModel distance="4.0"/>
+                                </y:LabelModel>
+                                <y:ModelParameter>
+                                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                                </y:ModelParameter>
+                              </y:NodeLabel>
+                            </y:GenericNode>
+                          </data>
+                        </node>
+                      </graph>
+                    </node>
+                  </graph>
+                </node>
+                <node id="n0::n0::n0::n4" yfiles.foldertype="group">
+                  <data key="d4"/>
+                  <data key="d5"/>
+                  <data key="d6">
+                    <y:ProxyAutoBoundsNode>
+                      <y:Realizers active="0">
+                        <y:GroupNode>
+                          <y:Geometry height="372.8937489794747" width="178.7205810307662" x="1043.1358828292512" y="482.775209916276"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#3366FF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="178.7205810307662" x="0.0" y="0.0">基于树模型</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                        <y:GroupNode>
+                          <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 36</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                      </y:Realizers>
+                    </y:ProxyAutoBoundsNode>
+                  </data>
+                  <graph edgedefault="directed" id="n0::n0::n0::n4:">
+                    <node id="n0::n0::n0::n4::n0">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="520.151674760026"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.0" x="24.3602905153831" y="10.6494140625">决策树（回归树）<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n4::n1">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="578.1392282158322"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.369140625" x="37.6757202028831" y="10.6494140625">boosting回归<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n4::n2">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="635.4509957939572"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.708984375" x="39.0057983278831" y="10.6494140625">bagging回归<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n4::n3">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="692.7627633720821"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.0" x="24.360290515382985" y="10.6494140625">随机森林（回归）<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n4::n4">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="746.7158611339163"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.0" x="18.360290515382985" y="10.6494140625">支持向量机（回归）<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n0::n0::n4::n5">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="148.7205810307662" x="1058.1358828292512" y="800.6689588957507"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.0" x="12.360290515382985" y="10.6494140625">人工神经网络（回归）<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
                   </graph>
                 </node>
               </graph>
@@ -509,14 +607,14 @@ lasso回归<y:LabelModel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="1121.3404904340944" width="1117.0331337042035" x="1100.482126990562" y="-134.3778300666759"/>
+                  <y:Geometry height="1246.641887850753" width="1278.8201933243186" x="1328.307322303062" y="-71.11305754481569"/>
                   <y:Fill color="#CCFFCC" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1117.0331337042035" x="0.0" y="0.0">分类,决策函数ｙ=f(X)</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1278.8201933243186" x="0.0" y="0.0">分类,决策函数ｙ=f(X)</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="534" bottomF="533.9999999999999" left="9" leftF="8.680000000000064" right="239" rightF="238.7516756828752" top="185" topF="184.65253135382906"/>
+                  <y:BorderInsets bottom="15" bottomF="15.252250028519484" left="9" leftF="8.680000000000064" right="0" rightF="0.0" top="268" topF="268.00580063365203"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -535,10 +633,10 @@ lasso回归<y:LabelModel>
             <node id="n0::n1::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="97.7205810307662" x="1840.521501990562" y="345.80247037881554"/>
+                  <y:Geometry height="40.0" width="97.7205810307662" x="2468.885432606052" y="498.77275559172733"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.0" x="25.860290515383213" y="10.6494140625">EM算法<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.0" x="25.860290515382985" y="10.6494140625">EM算法<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -554,14 +652,14 @@ lasso回归<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="225.15130424791238" width="252.03559781623335" x="1496.975575813619" y="87.65116613090316"/>
+                      <y:Geometry height="726.7234117968" width="556.2679215839682" x="1746.457861147234" y="418.55316848061796"/>
                       <y:Fill color="#F5F5F5" transparent="false"/>
                       <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#3366FF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="252.03559781623335" x="0.0" y="0.0">基于树模型</y:NodeLabel>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#3366FF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="556.2679215839682" x="0.0" y="0.0">基于树模型</y:NodeLabel>
                       <y:Shape type="roundrectangle"/>
                       <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                       <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="26" rightF="25.68598844123335" top="0" topF="0.0"/>
+                      <y:BorderInsets bottom="149" bottomF="148.65646209300428" left="0" leftF="0.0" right="0" rightF="0.0" top="82" topF="82.32845173816213"/>
                     </y:GroupNode>
                     <y:GroupNode>
                       <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -577,89 +675,258 @@ lasso回归<y:LabelModel>
                 </y:ProxyAutoBoundsNode>
               </data>
               <graph edgedefault="directed" id="n0::n1::n1:">
-                <node id="n0::n1::n1::n0">
+                <node id="n0::n1::n1::n0" yfiles.foldertype="group">
+                  <data key="d4"/>
                   <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="80.0" x="1512.5444250893906" y="125.02763097465316"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="20.0" y="10.6494140625">分类树<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
+                    <y:ProxyAutoBoundsNode>
+                      <y:Realizers active="0">
+                        <y:GroupNode>
+                          <y:Geometry height="168.23419717187198" width="186.62592594309444" x="1761.457861147234" y="632.6819394467637"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="186.62592594309444" x="0.0" y="0.0">决策树(用于分类)</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                        <y:GroupNode>
+                          <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 32</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                      </y:Realizers>
+                    </y:ProxyAutoBoundsNode>
                   </data>
+                  <graph edgedefault="directed" id="n0::n1::n1::n0:">
+                    <node id="n0::n1::n1::n0::n0">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="1776.457861147234" y="670.0584042905137"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.673828125" x="16.6630859375" y="10.6494140625">ID3算法<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n0::n1">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="1801.783046335853" y="695.086035265167"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.34765625" x="13.326171875" y="10.6494140625">C4.5算法<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n0::n2">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="1827.1082315244719" y="720.1136662398202"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.34765625" x="13.326171875" y="10.6494140625">C5.0算法<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n0::n3">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="1853.0837870903285" y="745.9161366186357"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.666015625" x="9.6669921875" y="10.6494140625">CART算法<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                  </graph>
                 </node>
-                <node id="n0::n1::n1::n1">
+                <node id="n0::n1::n1::n1" yfiles.foldertype="group">
+                  <data key="d4"/>
                   <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="80.0" x="1628.325185188619" y="125.02763097465316"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.0390625" x="15.98046875" y="3.298828125">装袋法
-Bagging<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
+                    <y:ProxyAutoBoundsNode>
+                      <y:Realizers active="0">
+                        <y:GroupNode>
+                          <y:Geometry height="205.12342778779976" width="160.55664649706068" x="1990.502359543313" y="776.4966903966139"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.55664649706068" x="0.0" y="0.0">Boosting</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="25" leftF="25.27832324853034" right="25" rightF="25.27832324853034" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                        <y:GroupNode>
+                          <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 33</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                      </y:Realizers>
+                    </y:ProxyAutoBoundsNode>
                   </data>
+                  <graph edgedefault="directed" id="n0::n1::n1::n1:">
+                    <node id="n0::n1::n1::n1::n0">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="2030.7806827918434" y="813.8731552403639"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="54.70703125" x="12.646484375" y="10.6494140625">Adaboost<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n1::n1">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="2030.7806827918434" y="870.2466367123887"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="21.3330078125" y="10.6494140625">GBDT<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n1::n2">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="2030.7806827918434" y="926.6201181844136"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.033203125" x="15.9833984375" y="10.6494140625">Xgboost<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                  </graph>
                 </node>
-                <node id="n0::n1::n1::n2">
+                <node id="n0::n1::n1::n2" yfiles.foldertype="group">
+                  <data key="d4"/>
                   <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="80.0" x="1518.325185188619" y="190.7730439421889"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.69921875" x="-6.349609375" y="3.298828125">随机深林
-Random Forests<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
+                    <y:ProxyAutoBoundsNode>
+                      <y:Realizers active="0">
+                        <y:GroupNode>
+                          <y:Geometry height="184.37646484375" width="297.22342318788924" x="1990.502359543313" y="538.2580850625301"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="297.22342318788924" x="0.0" y="0.0">Bagging</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="25" leftF="25.27832324853034" right="25" rightF="25.43626287091047" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                        <y:GroupNode>
+                          <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+                          <y:Fill color="#F5F5F5" transparent="false"/>
+                          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 34</y:NodeLabel>
+                          <y:Shape type="roundrectangle"/>
+                          <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                          <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                          <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                        </y:GroupNode>
+                      </y:Realizers>
+                    </y:ProxyAutoBoundsNode>
                   </data>
-                </node>
-                <node id="n0::n1::n1::n3">
-                  <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="80.0" x="1628.325185188619" y="195.02763097465316"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.69921875" x="14.650390625" y="3.298828125">提升法
-Boosting<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
-                  </data>
-                </node>
-                <node id="n0::n1::n1::n4">
-                  <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="80.0" x="1628.325185188619" y="257.80247037881554"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="2.0" y="3.298828125">自适应提升法
-adaboost<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
-                  </data>
+                  <graph edgedefault="directed" id="n0::n1::n1::n2:">
+                    <node id="n0::n1::n1::n2::n0">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="40.0" width="80.0" x="2030.7806827918434" y="626.6345499062801"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.04296875" x="14.978515625" y="10.6494140625">bagging <y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n2::n1">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="51.0" width="97.7205810307662" x="2149.5689388295255" y="575.6345499062801"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.365234375" x="7.177673327882985" y="16.1494140625">RandomForest<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                    <node id="n0::n1::n1::n2::n2">
+                      <data key="d6">
+                        <y:GenericNode configuration="com.yworks.flowchart.process">
+                          <y:Geometry height="51.0" width="97.7205810307662" x="2149.5689388295255" y="656.6345499062801"/>
+                          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                          <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
+                          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.677734375" x="15.521423327882985" y="16.1494140625">Extra-Trees<y:LabelModel>
+                              <y:SmartNodeLabelModel distance="4.0"/>
+                            </y:LabelModel>
+                            <y:ModelParameter>
+                              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                            </y:ModelParameter>
+                          </y:NodeLabel>
+                        </y:GenericNode>
+                      </data>
+                    </node>
+                  </graph>
                 </node>
               </graph>
             </node>
@@ -669,14 +936,14 @@ adaboost<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="350.3114942365154" width="332.8602905153832" x="1124.162126990562" y="87.65116613090319"/>
+                      <y:Geometry height="911.0073723448315" width="348.5925607182662" x="1351.987322303062" y="234.26920793258637"/>
                       <y:Fill color="#F5F5F5" transparent="false"/>
                       <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#00FFFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="332.8602905153832" x="0.0" y="0.0">线性分类器</y:NodeLabel>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#00FFFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="348.5925607182662" x="0.0" y="0.0">线性分类器</y:NodeLabel>
                       <y:Shape type="roundrectangle"/>
                       <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                       <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                      <y:BorderInsets bottom="3" bottomF="2.76305436350367" left="15" leftF="15.0" right="15" rightF="14.820290515383249" top="24" topF="24.29572307062236"/>
+                      <y:BorderInsets bottom="300" bottomF="299.90619552366854" left="15" leftF="15.0" right="24" rightF="23.512560718266286" top="368" topF="367.724711977413"/>
                     </y:GroupNode>
                     <y:GroupNode>
                       <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -695,10 +962,10 @@ adaboost<y:LabelModel>
                 <node id="n0::n1::n2::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="118.0" x="1154.162126990562" y="380.19960600391494"/>
+                      <y:Geometry height="40.0" width="118.0" x="1381.987322303062" y="790.3703847537494"/>
                       <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                       <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="90.00390625" x="13.998046875" y="10.6494140625">SVM支持向量机<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.0" x="3.0" y="10.6494140625">支持向量机（分类）<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -711,7 +978,7 @@ adaboost<y:LabelModel>
                 <node id="n0::n1::n2::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="51.0" width="118.0" x="1154.162126990562" y="149.32335404527555"/>
+                      <y:Geometry height="51.0" width="118.0" x="1381.987322303062" y="639.3703847537494"/>
                       <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                       <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.720703125" x="11.6396484375" y="8.798828125">感知机(单层)PLA
@@ -728,40 +995,7 @@ f(x)=sign(ωTx+b)<y:LabelModel>
                 <node id="n0::n1::n2::n2">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="118.0" x="1154.162126990562" y="235.5986420678625"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.0" x="9.0" y="3.298828125">逻辑回归LR
-（响应变量定性）<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
-                  </data>
-                </node>
-                <node id="n0::n1::n2::n3">
-                  <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="118.0" x="1154.162126990562" y="305.5986420678625"/>
-                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="21.0" y="10.6494140625">多元逻辑回归<y:LabelModel>
-                          <y:SmartNodeLabelModel distance="4.0"/>
-                        </y:LabelModel>
-                        <y:ModelParameter>
-                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                        </y:ModelParameter>
-                      </y:NodeLabel>
-                    </y:GenericNode>
-                  </data>
-                </node>
-                <node id="n0::n1::n2::n4">
-                  <data key="d6">
-                    <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="125.03999999999996" x="1302.162126990562" y="230.32335404527555"/>
+                      <y:Geometry height="40.0" width="125.03999999999996" x="1381.987322303062" y="720.3703847537494"/>
                       <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.34375" x="12.848124999999982" y="10.6494140625">线性判别分析LDA<y:LabelModel>
@@ -774,10 +1008,10 @@ f(x)=sign(ωTx+b)<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n0::n1::n2::n5">
+                <node id="n0::n1::n2::n3">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="40.0" width="125.03999999999996" x="1302.162126990562" y="300.32335404527555"/>
+                      <y:Geometry height="40.0" width="125.03999999999996" x="1537.027322303062" y="720.1136662398202"/>
                       <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="123.34375" x="0.8481249999999818" y="10.6494140625">多元线性判别分析LDA<y:LabelModel>
@@ -795,10 +1029,10 @@ f(x)=sign(ωTx+b)<y:LabelModel>
             <node id="n0::n1::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="97.7205810307662" x="1840.521501990562" y="94.80247037881554"/>
+                  <y:Geometry height="40.0" width="97.7205810307662" x="2468.885432606052" y="247.77275559172733"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#00CCFF" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.34765625" x="22.186462390383213" y="10.6494140625">k近邻knn<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.34765625" x="22.186462390382985" y="10.6494140625">k近邻knn<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -811,10 +1045,10 @@ f(x)=sign(ωTx+b)<y:LabelModel>
             <node id="n0::n1::n4">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="97.7205810307662" x="1840.521501990562" y="169.80247037881554"/>
+                  <y:Geometry height="40.0" width="97.7205810307662" x="2468.885432606052" y="322.77275559172733"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#FF6600" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.8602905153832126" y="10.6494140625">朴素贝叶斯分类<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.0" x="4.860290515382985" y="10.6494140625">朴素贝叶斯分类<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -827,10 +1061,10 @@ f(x)=sign(ωTx+b)<y:LabelModel>
             <node id="n0::n1::n5">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="97.7205810307662" x="1840.521501990562" y="257.80247037881554"/>
+                  <y:Geometry height="40.0" width="97.7205810307662" x="2468.885432606052" y="410.77275559172733"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.0" x="16.860290515383213" y="10.6494140625">条件随机场<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.0" x="16.860290515382985" y="10.6494140625">条件随机场<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -843,7 +1077,7 @@ f(x)=sign(ωTx+b)<y:LabelModel>
             <node id="n0::n1::n6">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="40.0" width="97.7205810307662" x="1866.043003981124" y="195.15545635505464"/>
+                  <y:Geometry height="40.0" width="97.7205810307662" x="2494.406934596614" y="348.12574156796643"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#FF6600" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.0" x="16.860290515382985" y="10.6494140625">隐马尔科夫<y:LabelModel>
@@ -855,6 +1089,119 @@ f(x)=sign(ωTx+b)<y:LabelModel>
                   </y:NodeLabel>
                 </y:GenericNode>
               </data>
+            </node>
+            <node id="n0::n1::n7">
+              <data key="d6">
+                <y:GenericNode configuration="com.yworks.flowchart.process">
+                  <y:Geometry height="40.0" width="139.7205810307662" x="2426.885432606052" y="594.7468495974995"/>
+                  <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.0" x="7.8602905153832126" y="10.6494140625">广义可加模型（分类）<y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                </y:GenericNode>
+              </data>
+            </node>
+            <node id="n0::n1::n8" yfiles.foldertype="group">
+              <data key="d4"/>
+              <data key="d6">
+                <y:ProxyAutoBoundsNode>
+                  <y:Realizers active="0">
+                    <y:GroupNode>
+                      <y:Geometry height="178.31348317275913" width="360.987322303062" x="1744.5807497738958" y="234.26920793258634"/>
+                      <y:Fill color="#F5F5F5" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#993366" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="360.987322303062" x="0.0" y="2.8421709430404007E-14">广义线性模型GLM，因变量服从指数分布族</y:NodeLabel>
+                      <y:Shape type="roundrectangle"/>
+                      <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="77" leftF="77.0" right="0" rightF="0.0" top="4" topF="3.757958276357641"/>
+                    </y:GroupNode>
+                    <y:GroupNode>
+                      <y:Geometry height="50.0" width="50.0" x="528.2706796237379" y="286.80554430602825"/>
+                      <y:Fill color="#F5F5F5" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 24</y:NodeLabel>
+                      <y:Shape type="roundrectangle"/>
+                      <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                      <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GroupNode>
+                  </y:Realizers>
+                </y:ProxyAutoBoundsNode>
+              </data>
+              <graph edgedefault="directed" id="n0::n1::n8:">
+                <node id="n0::n1::n8::n0">
+                  <data key="d6">
+                    <y:GenericNode configuration="com.yworks.flowchart.process">
+                      <y:Geometry height="40.0" width="118.0" x="1836.5807497738958" y="275.403631052694"/>
+                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.02734375" x="16.986328125" y="10.6494140625">Logistic回归LR
+<y:LabelModel>
+                          <y:SmartNodeLabelModel distance="4.0"/>
+                        </y:LabelModel>
+                        <y:ModelParameter>
+                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                        </y:ModelParameter>
+                      </y:NodeLabel>
+                    </y:GenericNode>
+                  </data>
+                </node>
+                <node id="n0::n1::n8::n1">
+                  <data key="d6">
+                    <y:GenericNode configuration="com.yworks.flowchart.process">
+                      <y:Geometry height="40.0" width="118.0" x="1836.5807497738958" y="332.29134555267274"/>
+                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.015625" x="22.9921875" y="10.6494140625">Softmax分类<y:LabelModel>
+                          <y:SmartNodeLabelModel distance="4.0"/>
+                        </y:LabelModel>
+                        <y:ModelParameter>
+                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                        </y:ModelParameter>
+                      </y:NodeLabel>
+                    </y:GenericNode>
+                  </data>
+                </node>
+                <node id="n0::n1::n8::n2">
+                  <data key="d6">
+                    <y:GenericNode configuration="com.yworks.flowchart.process">
+                      <y:Geometry height="40.0" width="118.0" x="1939.6645368642244" y="357.5826911053455"/>
+                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="57.0" y="18.0">
+                        <y:LabelModel>
+                          <y:SmartNodeLabelModel distance="4.0"/>
+                        </y:LabelModel>
+                        <y:ModelParameter>
+                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                        </y:ModelParameter>
+                      </y:NodeLabel>
+                    </y:GenericNode>
+                  </data>
+                </node>
+                <node id="n0::n1::n8::n3">
+                  <data key="d6">
+                    <y:GenericNode configuration="com.yworks.flowchart.process">
+                      <y:Geometry height="40.0" width="118.0" x="1972.5680720769578" y="275.403631052694"/>
+                      <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="21.0" y="10.6494140625">多元逻辑回归<y:LabelModel>
+                          <y:SmartNodeLabelModel distance="4.0"/>
+                        </y:LabelModel>
+                        <y:ModelParameter>
+                          <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                        </y:ModelParameter>
+                      </y:NodeLabel>
+                    </y:GenericNode>
+                  </data>
+                </node>
+              </graph>
             </node>
           </graph>
         </node>
@@ -958,7 +1305,7 @@ DBSCAN<y:LabelModel>
                   <y:Geometry height="30.0" width="91.6" x="-177.78969872441493" y="-490.7189478814363"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="19.799999999999997" y="5.6494140625">层次聚类<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="19.799999999999983" y="5.6494140625">层次聚类<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -974,7 +1321,7 @@ DBSCAN<y:LabelModel>
                   <y:Geometry height="30.0" width="91.6" x="-177.78969872441493" y="-441.676379448617"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="19.799999999999997" y="5.6494140625">高斯混合<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="19.799999999999983" y="5.6494140625">高斯混合<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -1419,7 +1766,7 @@ DBSCAN<y:LabelModel>
                   <y:Geometry height="30.0" width="90.41600000000003" x="-588.849586724415" y="-183.6927163142556"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.673828125" x="18.871085937500084" y="5.6494140625">SVD降维<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.673828125" x="18.87108593749997" y="5.6494140625">SVD降维<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -1435,7 +1782,7 @@ DBSCAN<y:LabelModel>
                   <y:Geometry height="30.0" width="90.41600000000003" x="-588.849586724415" y="-142.8327163142556"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.673828125" x="0.8710859375000837" y="5.6494140625">PCA主成分分析<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.673828125" x="0.87108593749997" y="5.6494140625">PCA主成分分析<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -1451,7 +1798,7 @@ DBSCAN<y:LabelModel>
                   <y:Geometry height="30.0" width="90.41600000000003" x="-588.849586724415" y="-101.97271631425562"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="7.208000000000084" y="5.6494140625">核化线性降维<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="7.20799999999997" y="5.6494140625">核化线性降维<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -1579,54 +1926,6 @@ DBSCAN<y:LabelModel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="132.37646484375" width="121.59999999999991" x="2309.0658330113147" y="-2011.7636935421128"/>
-                  <y:Fill color="#F5F5F5" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="121.59999999999991" x="0.0" y="0.0">核技巧</y:NodeLabel>
-                  <y:Shape type="roundrectangle"/>
-                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
-                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="36" bottomF="36.188232421875" left="0" leftF="0.0" right="0" rightF="0.0" top="14" topF="13.811767578125"/>
-                </y:GroupNode>
-                <y:GroupNode>
-                  <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
-                  <y:Fill color="#F5F5F5" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.369140625" x="-8.6845703125" y="0.0">Folder 25</y:NodeLabel>
-                  <y:Shape type="roundrectangle"/>
-                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
-                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
-                </y:GroupNode>
-              </y:Realizers>
-            </y:ProxyAutoBoundsNode>
-          </data>
-          <graph edgedefault="directed" id="n2::n1:">
-            <node id="n2::n1::n0">
-              <data key="d6">
-                <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="30.0" width="91.60000000000002" x="2324.0658330113147" y="-1960.5754611202378"/>
-                  <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="43.80000000000018" y="13.0">
-                    <y:LabelModel>
-                      <y:SmartNodeLabelModel distance="4.0"/>
-                    </y:LabelModel>
-                    <y:ModelParameter>
-                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                    </y:ModelParameter>
-                  </y:NodeLabel>
-                </y:GenericNode>
-              </data>
-            </node>
-          </graph>
-        </node>
-        <node id="n2::n2" yfiles.foldertype="group">
-          <data key="d4"/>
-          <data key="d6">
-            <y:ProxyAutoBoundsNode>
-              <y:Realizers active="0">
-                <y:GroupNode>
                   <y:Geometry height="302.36664467822266" width="250.21829756124203" x="1131.8618956897938" y="-1643.2999825527118"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
@@ -1649,8 +1948,8 @@ DBSCAN<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n2:">
-            <node id="n2::n2::n0">
+          <graph edgedefault="directed" id="n2::n1:">
+            <node id="n2::n1::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1174.040096625518" y="-1605.9235177089618"/>
@@ -1666,7 +1965,7 @@ DBSCAN<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n2::n1">
+            <node id="n2::n1::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1174.040096625518" y="-1552.779269208539"/>
@@ -1682,7 +1981,7 @@ DBSCAN<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n2::n2">
+            <node id="n2::n1::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1174.040096625518" y="-1499.6350207081164"/>
@@ -1698,7 +1997,7 @@ DBSCAN<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n2::n3">
+            <node id="n2::n1::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1174.040096625518" y="-1395.933337874489"/>
@@ -1715,13 +2014,13 @@ DBSCAN<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n2::n4">
+            <node id="n2::n1::n4">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1174.040096625518" y="-1447.7841792913027"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0" x="2.0" y="10.6494140625">合页损失函数<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.361328125" x="-0.6806640625" y="10.6494140625">hinge损失函数<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -1731,7 +2030,7 @@ DBSCAN<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n2::n5">
+            <node id="n2::n1::n5">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1271.5408651685316" y="-1605.9235177089618"/>
@@ -1749,7 +2048,7 @@ DBSCAN<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n3" yfiles.foldertype="group">
+        <node id="n2::n2" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -1777,8 +2076,8 @@ DBSCAN<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n3:">
-            <node id="n2::n3::n0">
+          <graph edgedefault="directed" id="n2::n2:">
+            <node id="n2::n2::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="54.0" width="97.7205810307662" x="1513.096209451304" y="-2254.561072994757"/>
@@ -1795,7 +2094,7 @@ cross-validation<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n3::n1">
+            <node id="n2::n2::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="54.0" width="97.7205810307662" x="1513.096209451304" y="-2178.0321608261966"/>
@@ -1814,7 +2113,7 @@ booststrap<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n4" yfiles.foldertype="group">
+        <node id="n2::n3" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -1842,8 +2141,8 @@ booststrap<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n4:">
-            <node id="n2::n4::n0">
+          <graph edgedefault="directed" id="n2::n3:">
+            <node id="n2::n3::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1435.0191622486805" y="-1640.6575653701111"/>
@@ -1859,7 +2158,7 @@ booststrap<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n4::n1">
+            <node id="n2::n3::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start1">
                   <y:Geometry height="40.0" width="80.0" x="1598.4974593288293" y="-1640.6575653701111"/>
@@ -1877,7 +2176,7 @@ booststrap<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n5" yfiles.foldertype="group">
+        <node id="n2::n4" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -1905,8 +2204,8 @@ booststrap<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n5:">
-            <node id="n2::n5::n0" yfiles.foldertype="group">
+          <graph edgedefault="directed" id="n2::n4:">
+            <node id="n2::n4::n0" yfiles.foldertype="group">
               <data key="d4"/>
               <data key="d6">
                 <y:ProxyAutoBoundsNode>
@@ -1934,8 +2233,8 @@ booststrap<y:LabelModel>
                   </y:Realizers>
                 </y:ProxyAutoBoundsNode>
               </data>
-              <graph edgedefault="directed" id="n2::n5::n0:">
-                <node id="n2::n5::n0::n0">
+              <graph edgedefault="directed" id="n2::n4::n0:">
+                <node id="n2::n4::n0::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
                       <y:Geometry height="40.0" width="80.0" x="1614.9933747217356" y="-1003.4572019475244"/>
@@ -1951,7 +2250,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n1">
+                <node id="n2::n4::n0::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.start2">
                       <y:Geometry height="17.616108171663726" width="23.10760826964531" x="1426.7542261816611" y="-992.2652560333562"/>
@@ -1967,7 +2266,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n2">
+                <node id="n2::n4::n0::n2">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.start2">
                       <y:Geometry height="17.616108171663726" width="52.020135214579625" x="1694.9933747217356" y="-992.2652560333562"/>
@@ -1983,7 +2282,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n3">
+                <node id="n2::n4::n0::n3">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
                       <y:Geometry height="40.0" width="80.0" x="1469.8618344513065" y="-1003.4572019475244"/>
@@ -1999,7 +2298,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n4">
+                <node id="n2::n4::n0::n4">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.start2">
                       <y:Geometry height="17.616108171663726" width="57.43422986478549" x="1549.8618344513065" y="-992.2652560333562"/>
@@ -2015,7 +2314,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n5">
+                <node id="n2::n4::n0::n5">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
                       <y:Geometry height="40.0" width="80.0" x="1324.7302941808775" y="-1003.4572019475244"/>
@@ -2031,7 +2330,7 @@ booststrap<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n6">
+                <node id="n2::n4::n0::n6">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
                       <y:Geometry height="40.0" width="111.7205810307662" x="1033.1413146590276" y="-1003.4572019475244"/>
@@ -2048,7 +2347,7 @@ minＲemp(ｆ)<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n7">
+                <node id="n2::n4::n0::n7">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.start2">
                       <y:Geometry height="17.616108171663726" width="23.10760826964531" x="1168.2422908005128" y="-992.2652560333562"/>
@@ -2064,7 +2363,7 @@ minＲemp(ｆ)<y:LabelModel>
                     </y:GenericNode>
                   </data>
                 </node>
-                <node id="n2::n5::n0::n8">
+                <node id="n2::n4::n0::n8">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
                       <y:Geometry height="59.52891216856062" width="87.0" x="1214.540096625518" y="-1013.2216580318046"/>
@@ -2084,7 +2383,7 @@ minＲemp(ｆ)<y:LabelModel>
                 </node>
               </graph>
             </node>
-            <node id="n2::n5::n1">
+            <node id="n2::n4::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="80.0" x="1863.0135099363156" y="-998.4572019475244"/>
@@ -2100,7 +2399,7 @@ minＲemp(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n5::n2">
+            <node id="n2::n4::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start2">
                   <y:Geometry height="17.616108171663726" width="52.020135214579625" x="1786.5034423290258" y="-992.2652560333562"/>
@@ -2116,7 +2415,7 @@ minＲemp(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n5::n3">
+            <node id="n2::n4::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="40.0" width="118.7205810307662" x="847.7425326925372" y="-1003.4572019475244"/>
@@ -2133,7 +2432,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n5::n4">
+            <node id="n2::n4::n4">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.start2">
                   <y:Geometry height="17.616108171663726" width="23.10760826964531" x="980.6785553140343" y="-992.2652560333562"/>
@@ -2151,7 +2450,7 @@ minＲsrm(ｆ)<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n6">
+        <node id="n2::n5">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.start1">
               <y:Geometry height="59.52891216856074" width="156.0" x="272.6387366528205" y="-1055.6978254957203"/>
@@ -2167,7 +2466,7 @@ minＲsrm(ｆ)<y:LabelModel>
             </y:GenericNode>
           </data>
         </node>
-        <node id="n2::n7" yfiles.foldertype="group">
+        <node id="n2::n6" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -2195,8 +2494,8 @@ minＲsrm(ｆ)<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n7:">
-            <node id="n2::n7::n0">
+          <graph edgedefault="directed" id="n2::n6:">
+            <node id="n2::n6::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="1997.979994872358" y="-1316.7412321400475"/>
@@ -2212,7 +2511,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n7::n1">
+            <node id="n2::n6::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="2022.979994872358" y="-1291.4175784169029"/>
@@ -2228,7 +2527,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n7::n2">
+            <node id="n2::n6::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="2047.979994872358" y="-1266.0939246937583"/>
@@ -2246,7 +2545,7 @@ minＲsrm(ｆ)<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n8" yfiles.foldertype="group">
+        <node id="n2::n7" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -2274,8 +2573,8 @@ minＲsrm(ｆ)<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n8:">
-            <node id="n2::n8::n0">
+          <graph edgedefault="directed" id="n2::n7:">
+            <node id="n2::n7::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="74.0" x="198.6387366528205" y="-2483.975803503345"/>
@@ -2291,7 +2590,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n1">
+            <node id="n2::n7::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="74.0" x="191.6387366528205" y="-2025.9758035033444"/>
@@ -2307,7 +2606,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n2">
+            <node id="n2::n7::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="74.0" x="191.6387366528205" y="-1753.9758035033442"/>
@@ -2323,7 +2622,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n3">
+            <node id="n2::n7::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="74.0" x="198.6387366528205" y="-2254.9758035033447"/>
@@ -2339,7 +2638,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n4">
+            <node id="n2::n7::n4">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
@@ -2357,7 +2656,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n5">
+            <node id="n2::n7::n5">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
@@ -2375,14 +2674,14 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n6">
+            <node id="n2::n7::n6">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="57.067636952631574" width="476.67669211056125" x="328.9620445422593" y="-2047.8912573125558"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="59.0" horizontalTextPosition="center" iconData="3" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="308.0" x="84.33834605528062" y="-0.9661815236843267">
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="59.0" horizontalTextPosition="center" iconData="3" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="308.0" x="84.33834605528062" y="-0.9661815236840994">
                     <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -2393,7 +2692,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n7">
+            <node id="n2::n7::n7">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
@@ -2411,7 +2710,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n8">
+            <node id="n2::n7::n8">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
@@ -2429,7 +2728,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n9">
+            <node id="n2::n7::n9">
               <data key="d4"/>
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
@@ -2454,7 +2753,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n10">
+            <node id="n2::n7::n10">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="106.0" x="328.9620445422593" y="-2541.0262958177996"/>
@@ -2470,7 +2769,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n11">
+            <node id="n2::n7::n11">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="106.0" x="328.96204454225926" y="-2494.009151179623"/>
@@ -2486,7 +2785,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n12">
+            <node id="n2::n7::n12">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="157.9999999999999" x="328.9620445422593" y="-2446.9920065414467"/>
@@ -2502,7 +2801,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n13">
+            <node id="n2::n7::n13">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="105.99999999999989" x="328.9620445422594" y="-2399.9748619032703"/>
@@ -2518,7 +2817,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n8::n14">
+            <node id="n2::n7::n14">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="29.999999999999773" width="105.99999999999989" x="328.9620445422594" y="-2353.248361106676"/>
@@ -2536,7 +2835,7 @@ minＲsrm(ｆ)<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n9" yfiles.foldertype="group">
+        <node id="n2::n8" yfiles.foldertype="group">
           <data key="d4"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
@@ -2564,8 +2863,8 @@ minＲsrm(ｆ)<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n9:">
-            <node id="n2::n9::n0">
+          <graph edgedefault="directed" id="n2::n8:">
+            <node id="n2::n8::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="2259.285833011314" y="-1530.544535963389"/>
@@ -2581,7 +2880,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n9::n1">
+            <node id="n2::n8::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="2284.285833011314" y="-1505.544535963389"/>
@@ -2597,7 +2896,7 @@ minＲsrm(ｆ)<y:LabelModel>
                 </y:GenericNode>
               </data>
             </node>
-            <node id="n2::n9::n2">
+            <node id="n2::n8::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
                   <y:Geometry height="30.0" width="91.60000000000002" x="2309.285833011314" y="-1480.544535963389"/>
@@ -2616,21 +2915,20 @@ minＲsrm(ｆ)<y:LabelModel>
             </node>
           </graph>
         </node>
-        <node id="n2::n10" yfiles.foldertype="group">
+        <node id="n2::n9" yfiles.foldertype="group">
           <data key="d4"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="302.36664467822266" width="291.4782970801489" x="826.3835986096449" y="-1643.2999825527118"/>
+                  <y:Geometry height="302.36664467822266" width="315.4782970801489" x="804.3835986096449" y="-1643.2999825527118"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CC00" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="291.4782970801489" x="0.0" y="0.0">学习的策略（平均意义下的样本集误差）</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CC00" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="315.4782970801489" x="0.0" y="0.0">学习的策略（平均意义下的样本集误差）</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="204" bottomF="203.99017983447266" left="51" leftF="50.681983943268506" right="99" rightF="99.07573210611417" top="16" topF="16.0"/>
+                  <y:BorderInsets bottom="182" bottomF="182.0666621255109" left="41" leftF="40.61640139035512" right="126" rightF="126.14131465902756" top="18" topF="17.923517708961754"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -2645,13 +2943,43 @@ minＲsrm(ｆ)<y:LabelModel>
               </y:Realizers>
             </y:ProxyAutoBoundsNode>
           </data>
-          <graph edgedefault="directed" id="n2::n10:"/>
+          <graph edgedefault="directed" id="n2::n9:">
+            <node id="n2::n9::n0" yfiles.foldertype="folder">
+              <data key="d4"/>
+              <data key="d6">
+                <y:ProxyAutoBoundsNode>
+                  <y:Realizers active="1">
+                    <y:GroupNode>
+                      <y:Geometry height="34.0" width="30.0" x="860.0" y="-1588.0"/>
+                      <y:Fill color="#F5F5F5" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CC00" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.0" x="0.0" y="0.0"/>
+                      <y:Shape type="roundrectangle"/>
+                      <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="27" leftF="27.490317142643192" right="274" rightF="273.8084183932792" top="447" topF="447.45605390067885"/>
+                    </y:GroupNode>
+                    <y:GroupNode>
+                      <y:Geometry height="50.0" width="118.7205810307662" x="860.0" y="-1588.0"/>
+                      <y:Fill color="#F5F5F5" transparent="false"/>
+                      <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.7205810307662" x="0.0" y="0.0">参数估计方法</y:NodeLabel>
+                      <y:Shape type="roundrectangle"/>
+                      <y:State closed="true" closedHeight="50.0" closedWidth="118.7205810307662" innerGraphDisplayEnabled="false"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="27" leftF="27.490317142643192" right="274" rightF="273.8084183932792" top="447" topF="447.45605390067885"/>
+                    </y:GroupNode>
+                  </y:Realizers>
+                </y:ProxyAutoBoundsNode>
+              </data>
+              <graph edgedefault="directed" id="n2::n9::n0:"/>
+            </node>
+          </graph>
         </node>
       </graph>
     </node>
     <node id="n3" yfiles.foldertype="group">
       <data key="d4"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -2697,7 +3025,6 @@ minＲsrm(ｆ)<y:LabelModel>
         </node>
         <node id="n3::n1" yfiles.foldertype="group">
           <data key="d4"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
@@ -2763,7 +3090,7 @@ minＲsrm(ｆ)<y:LabelModel>
                   <y:Geometry height="30.0" width="117.0" x="-573.7143690093824" y="-1130.0522605014412"/>
                   <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="38.5" y="5.6494140625">拟牛顿<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.0" x="32.5" y="5.6494140625">最小二乘<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -2812,10 +3139,10 @@ minＲsrm(ｆ)<y:LabelModel>
     <edge id="n0::n0::n0::e0" source="n0::n0::n0::n1" target="n0::n0::n0::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-20.5" ty="-125.82693364169523"/>
+          <y:Path sx="0.0" sy="0.0" tx="-31.78455940486462" ty="-45.848114610947704"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="-43.999980782632974" y="13.25454045741725">部分<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="-45.43116374450506" y="67.58483136680934">部分<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -2830,12 +3157,12 @@ minＲsrm(ｆ)<y:LabelModel>
     <edge id="n0::n0::n0::e1" source="n0::n0::n0::n1" target="n0::n0::n0::n3">
       <data key="d10">
         <y:ArcEdge>
-          <y:Path sx="0.0" sy="0.0" tx="119.10121803350972" ty="-305.92649331000456">
-            <y:Point x="540.47998046875" y="162.45159912109375"/>
+          <y:Path sx="0.0" sy="0.0" tx="115.29232624947515" ty="-365.8848176566966">
+            <y:Point x="519.324951171875" y="210.6278076171875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="-81.20068194536816" y="24.400248824165743">不存在<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="-110.2196431355377" y="40.20961959992866">不存在<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -2843,7 +3170,7 @@ minＲsrm(ｆ)<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="-44.01346969604492" ratio="-0.6905896067619324" type="fixedRatio"/>
+          <y:Arc height="-55.296531677246094" ratio="-0.6905896067619324" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
@@ -2973,7 +3300,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n2::e0" source="n2::n7::n2" target="n2::n5::n1">
+    <edge id="n2::e0" source="n2::n6::n2" target="n2::n4::n1">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2984,7 +3311,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="n2::e1" source="n2::n2" target="n2::n5::n0::n5">
+    <edge id="n2::e1" source="n2::n1" target="n2::n4::n0::n5">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2993,7 +3320,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="n2::e2" source="n2::n8" target="n2::n3">
+    <edge id="n2::e2" source="n2::n7" target="n2::n2">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3002,7 +3329,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e0" source="n2::n8::n1" target="n2::n8::n4">
+    <edge id="n2::n7::e0" source="n2::n7::n1" target="n2::n7::n4">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3014,7 +3341,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e1" source="n2::n8::n1" target="n2::n8::n5">
+    <edge id="n2::n7::e1" source="n2::n7::n1" target="n2::n7::n5">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3026,7 +3353,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e2" source="n2::n8::n1" target="n2::n8::n6">
+    <edge id="n2::n7::e2" source="n2::n7::n1" target="n2::n7::n6">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3038,7 +3365,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e3" source="n2::n8::n1" target="n2::n8::n7">
+    <edge id="n2::n7::e3" source="n2::n7::n1" target="n2::n7::n7">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3050,7 +3377,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e4" source="n2::n8::n1" target="n2::n8::n8">
+    <edge id="n2::n7::e4" source="n2::n7::n1" target="n2::n7::n8">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3062,7 +3389,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::e3" source="n2::n6" target="n2::n5">
+    <edge id="n2::e3" source="n2::n5" target="n2::n4">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3071,7 +3398,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e5" source="n2::n8::n0" target="n2::n8::n9">
+    <edge id="n2::n7::e5" source="n2::n7::n0" target="n2::n7::n9">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3083,7 +3410,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::e4" source="n2::n4::n0" target="n2::n5::n0::n3">
+    <edge id="n2::e4" source="n2::n3::n0" target="n2::n4::n0::n3">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3104,7 +3431,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::e5" source="n2::n4::n1" target="n2::n5::n0::n3">
+    <edge id="n2::e5" source="n2::n3::n1" target="n2::n4::n0::n3">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3125,7 +3452,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::e6" source="n2::n3" target="n2::n4">
+    <edge id="n2::e6" source="n2::n2" target="n2::n3">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3137,7 +3464,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="n2::e7" source="n2::n5::n3" target="n2::n8">
+    <edge id="n2::e7" source="n2::n4::n3" target="n2::n7">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3149,7 +3476,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e6" source="n2::n8::n0" target="n2::n8::n10">
+    <edge id="n2::n7::e6" source="n2::n7::n0" target="n2::n7::n10">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3161,7 +3488,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e7" source="n2::n8::n0" target="n2::n8::n11">
+    <edge id="n2::n7::e7" source="n2::n7::n0" target="n2::n7::n11">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3173,7 +3500,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e8" source="n2::n8::n0" target="n2::n8::n12">
+    <edge id="n2::n7::e8" source="n2::n7::n0" target="n2::n7::n12">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3185,7 +3512,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e9" source="n2::n8::n0" target="n2::n8::n13">
+    <edge id="n2::n7::e9" source="n2::n7::n0" target="n2::n7::n13">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3197,7 +3524,7 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n2::n8::e10" source="n2::n8::n0" target="n2::n8::n14">
+    <edge id="n2::n7::e10" source="n2::n7::n0" target="n2::n7::n14">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3207,40 +3534,6 @@ minＲsrm(ｆ)<y:LabelModel>
           <y:Arrows source="none" target="standard"/>
           <y:Arc height="-15.147507667541504" ratio="-0.3087945878505707" type="fixedRatio"/>
         </y:ArcEdge>
-      </data>
-    </edge>
-    <edge id="n0::n0::n0::e2" source="n0::n0::n0::n3" target="n0::n0::n0::n0">
-      <data key="d10">
-        <y:GenericEdge configuration="com.yworks.edge.framed">
-          <y:Path sx="132.14028053350972" sy="-185.55709951165812" tx="-155.90303675517345" ty="-17.639955701839426"/>
-          <y:LineStyle color="#000000" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="20.59168880292657" y="-39.35057780512386">推广<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
-        </y:GenericEdge>
-      </data>
-    </edge>
-    <edge id="n0::n0::n0::e3" source="n0::n0::n0::n0" target="n0::n0::n0::n3">
-      <data key="d10">
-        <y:GenericEdge configuration="com.yworks.edge.framed">
-          <y:Path sx="0.0" sy="138.49377672790314" tx="132.16004582265577" ty="-60.41455316015814"/>
-          <y:LineStyle color="#000000" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.673828125" x="-63.69904693876208" y="16.388491997242454">联结函数g<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.0" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
-        </y:GenericEdge>
       </data>
     </edge>
     <edge id="n1::n2::e11" source="n1::n2::n1" target="n1::n2::n12">
@@ -3268,11 +3561,11 @@ minＲsrm(ｆ)<y:LabelModel>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="108.61044311523438" y="481.04754638671875"/>
+            <y:Point x="110.44738006591797" y="513.1575927734375"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-140.1868072237225" y="33.792425866279075">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-149.46938541213527" y="12.523238205414373">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -3281,17 +3574,17 @@ minＲsrm(ｆ)<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="19.76793670654297" ratio="0.19446304440498352" type="fixedRatio"/>
+          <y:Arc height="20.114477157592773" ratio="0.19446304440498352" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="n0::n0::n0::e4" source="n0::n0::n0::n2" target="n0::n0::n0::n3">
+    <edge id="n0::n0::n0::e2" source="n0::n0::n0::n2" target="n0::n0::n0::n3">
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.edge.framed">
-          <y:Path sx="-128.86819109751235" sy="-24.136497569656058" tx="0.0" ty="174.2986232161705"/>
+          <y:Path sx="-128.86819109751235" sy="-24.136497569656058" tx="162.91090519719432" ty="-29.543066539289953"/>
           <y:LineStyle color="#000000" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="-54.61699039629218" y="-39.35059848549838">基函数<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.0" x="-56.441775997421075" y="-39.350573860966506">基函数<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -3302,15 +3595,15 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:GenericEdge>
       </data>
     </edge>
-    <edge id="n0::n0::n0::e5" source="n0::n0::n0::n1" target="n0::n0::n0::n2">
+    <edge id="n0::n0::n0::e3" source="n0::n0::n0::n1" target="n0::n0::n0::n2">
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="48.887379964192405" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="934.6381225585938" y="442.7240905761719"/>
+            <y:Point x="907.2346801757812" y="424.4204406738281"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="220.6429788927179" y="292.9168910336847">存在<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="183.54659463661665" y="247.0285795190975">存在<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -3318,41 +3611,19 @@ minＲsrm(ｆ)<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="193.8236541748047" ratio="1.2523733377456665" type="fixedRatio"/>
-        </y:ArcEdge>
-      </data>
-    </edge>
-    <edge id="n0::e0" source="n0::n0::n0::n3" target="n0::n1::n2">
-      <data key="d9"/>
-      <data key="d10">
-        <y:ArcEdge>
-          <y:Path sx="-44.898781966490276" sy="-350.59864206786233" tx="-89.42896596913175" ty="-148.6750443207326">
-            <y:Point x="716.6146240234375" y="-65.72489929199219"/>
-          </y:Path>
-          <y:LineStyle color="#00FFFF" type="dashed" width="2.0"/>
-          <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#FF0000" verticalTextPosition="bottom" visible="true" width="52.0" x="363.05278071003136" y="-293.6691927257919">线性模型<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.93892143823029" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
-          <y:Arc height="231.14320373535156" ratio="1.0" type="fixedRatio"/>
+          <y:Arc height="151.94268798828125" ratio="1.13594388961792" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
     <edge id="e1" source="n0::n0::n0" target="n1::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:ArcEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="324.79913330078125" y="69.74517822265625"/>
+            <y:Point x="396.4029541015625" y="143.35055541992188"/>
           </y:Path>
           <y:LineStyle color="#00FFFF" type="dashed" width="2.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#FF0000" verticalTextPosition="bottom" visible="true" width="52.0" x="-148.01901314728002" y="-134.25595357167745">多元分析<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#FF0000" verticalTextPosition="bottom" visible="true" width="52.0" x="-157.19189021926604" y="-126.56918500607037">多元分析<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -3360,12 +3631,11 @@ minＲsrm(ｆ)<y:LabelModel>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
-          <y:Arc height="-163.88955688476562" ratio="-0.6500731110572815" type="fixedRatio"/>
+          <y:Arc height="-193.02293395996094" ratio="-0.6500731110572815" type="fixedRatio"/>
         </y:ArcEdge>
       </data>
     </edge>
-    <edge id="e2" source="n0" target="n2::n5::n0::n0">
-      <data key="d9"/>
+    <edge id="e2" source="n0" target="n2::n4::n0::n0">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3374,14 +3644,142 @@ minＲsrm(ｆ)<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="n2::e8" source="n2::n10" target="n2::n5::n0::n8">
-      <data key="d9"/>
+    <edge id="n2::e8" source="n2::n9" target="n2::n4::n0::n8">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
         </y:SplineEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::n1::e0" source="n0::n1::n1::n0" target="n0::n1::n1::n2">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="-88.16909551688518" ty="11.188232421875"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="17.333842404127836" y="-41.53445891789647">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::n1::e1" source="n0::n1::n1::n0" target="n0::n1::n1::n1">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="26.617831394248242" y="-18.024281213738732">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::n1::n2::e0" source="n0::n1::n1::n2::n0" target="n0::n1::n1::n2::n1">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="7.337744476514217" y="-37.177258606235455">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::n1::n2::e1" source="n0::n1::n1::n2::n0" target="n0::n1::n1::n2::n2">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.448565557844177" y="-25.504857953211285">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::e0" source="n0::n1::n8::n0" target="n0::n1::n2">
+      <data key="d9"/>
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="174.3177301845535" ty="-394.36926305230816"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.673828125" x="-63.69451878079167" y="-16.70116631058727">联结函数g
+sigmoid<y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.0" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n1::e1" source="n0::n1::n8::n1" target="n0::n1::n2">
+      <data key="d9"/>
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="173.7163973378049" ty="-337.4815485523294"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.673828125" x="-63.70355198391667" y="-16.701177640686637">联结函数g
+softmax<y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.0" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="n0::n0::n0::e4" source="n0::n0::n0::n0::n0" target="n0::n0::n0::n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="162.87965519719432" ty="-306.3879882837922"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.673828125" x="-121.9026851024355" y="-16.701171875">联结函数g
+log<y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.7420082633118404" segment="-1"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
       </data>
     </edge>
   </graph>
