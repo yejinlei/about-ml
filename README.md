@@ -145,7 +145,7 @@
 - Coefficients回归系数:
 - Residual standard error拟合优度R^2:
 
-![](pic/诊断图.png)
+	![](pic/诊断图.PNG)
 
 - Residuals vs Fitted Plot（残差图）：估计观察或预测到的误差error(残差residuals)与随机误差(stochastic error)是否一致。横坐标为拟合的方程中Y值，纵坐标为残差值。拟合曲线越接近0，则代表拟合的函数和样本点之间的误差就越小，模型越好。
 - Normal Q-Q Plot：横坐标为标准正态分布的分位数，纵坐标为样本值。通过Q-Q图上的点是否近似地在一条直线附近，用于鉴别样本数据是否近似于正态分布。而且该直线的斜率为标准差,截距为均值。
