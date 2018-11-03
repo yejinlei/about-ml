@@ -113,8 +113,6 @@
 #### 回归分析
 ##### 1、简单线性回归
 
-![](pic/一元线性回归.png)
-
 	#R语言片段
 	x <- c(151,174,138,186,128,136,179,163,152,131)
 	y <- c(63,81,56,91,47,57,76,72,62,48)
@@ -133,9 +131,9 @@
 	-6.3002 -1.6629  0.0412  1.8944  3.9775 
 	
 	Coefficients:
-	 Estimate        Std. Error   t value  Pr(>|t|)
-	(Intercept) -38.455098.04901  -4.778   0.00139 ** 
-	     x        0.674610.05191  12.997   1.16e-06 ***
+	              Estimate       Std. Error   t value  Pr(>|t|)
+	(Intercept)   -38.45509        8.04901     -4.778  0.00139 ** 
+	     x          0.67461        0.05191     12.997  1.16e-06 ***
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 	
@@ -143,13 +141,16 @@
 	Multiple R-squared:  0.9548,	Adjusted R-squared:  0.9491 
 	F-statistic: 168.9 on 1 and 8 DF,  p-value: 1.164e-06
 
-- Residuals残差
-- Coefficients回归系数
-- Residual standard error拟合优度R^2
-- Residuals vs Fitted Plot（残差图）：横坐标为拟合的方程中Y值，纵坐标为残差值。拟合曲线越接近0，则代表拟合的函数和样本点之间的误差就越小，模型越好。
+- Residuals残差：
+- Coefficients回归系数:
+- Residual standard error拟合优度R^2:
+
+![](pic/诊断图.png)
+
+- Residuals vs Fitted Plot（残差图）：估计观察或预测到的误差error(残差residuals)与随机误差(stochastic error)是否一致。横坐标为拟合的方程中Y值，纵坐标为残差值。拟合曲线越接近0，则代表拟合的函数和样本点之间的误差就越小，模型越好。
 - Normal Q-Q Plot：横坐标为标准正态分布的分位数，纵坐标为样本值。通过Q-Q图上的点是否近似地在一条直线附近，用于鉴别样本数据是否近似于正态分布。而且该直线的斜率为标准差,截距为均值。
-- Scale-Location Plot（标准化残差开方与拟合值的残差图）
-- Residuals vs Leverage（学生化残差值与杠杆值图）
+- Scale-Location Plot（标准化残差开方与拟合值的残差图）:
+- Residuals vs Leverage（学生化残差值与杠杆值图）:
 
 ##### 2、多元线性回归
 ##### 3、广义线性模型
