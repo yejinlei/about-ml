@@ -1,49 +1,30 @@
 ---
-title: "有关R语言"
+title: "统计机器学习之R语言"
 author: "yejinlei"
-date: "2018年1月26日"
+date: "2019年2月23日"
 output: html_document
 publish: http://rpubs.com/yejinlei/about-r
 ---
 
 ---
-title: "有关R语言"
+title: "统计机器学习之R语言"
 author: "yejinlei"
-date: "2018年1月26日"
+date: "2019年2月23日"
 output: html_document
 publish: http://rpubs.com/yejinlei/about-r
 ---
 
-# 参数估计
-## 点估计之极大似然估计MLE
+# R语言基础
+## 基本操作
+## ggplot2
+  R有好几种绘图工具，但ggplot2是其中最优雅、功能最全面的一个。ggplot2 实现了图形语法，这是一套用来描述和构建图形的连贯性语法规则。其绘图模板如下：
+  >ggplot(data = <DATA>) + <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
+  
 ```{r}
-
+install.packages('tidyverse')
+library(tidyverse)
 ```
 
-## 点估计之矩法估计
-```{r}
+---
 
-```
-
-# 线性回归
-## 简单线性回归
-```{r}
-
-```
-
-## 多元线性回归
-```{r}
-
-```
-
-## 广义线性回归
-```{r}
-
-```
-
-## 广义可加模型
-```{r}
-
-```
-
-# 模式识别
+# 统计机器学习
