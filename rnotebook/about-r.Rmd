@@ -1,13 +1,75 @@
+
 # R语言基础
-## 基本操作
-## ggplot2
-  R有好几种绘图工具，但ggplot2是其中最优雅、功能最全面的一个。ggplot2 实现了图形语法，这是一套用来描述和构建图形的连贯性语法规则。其绘图模板如下：
-  >ggplot(data = <DATA>) + <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
-  
+## 一、基本操作
+
 ```{r}
-install.packages('tidyverse')
-library(tidyverse)
+#install.packages('ggplot2')
+library(ggplot2)
 ```
+
+## 二、ggplot2绘图神器
+  R有好几种绘图工具，但ggplot2是其中最优雅、功能最全面的一个。ggplot2 实现了图形语法，这是一套用来描述和构建图形的连贯性语法规则。
+  
+  - **快速绘图函数**
+  
+  > qplot(x, y, ..., data, facets = NULL, margins = FALSE, geom = "auto",
+  xlim = c(NA, NA), ylim = c(NA, NA), log = "", main = NULL,
+  xlab = NULL, ylab = NULL, asp = NA, stat = NULL,
+  position = NULL)
+
+  - **绘图模板函数**
+  
+  > ggplot(data = \<DATA>) + \<GEOM_FUNCTION>(mapping = aes(\<MAPPINGS>))
+
+  - **常用函数**
+  
+函数|添加|选项
+-|-|-
+geom_bar()|条形图|color, fill, alpha
+geom_boxplot()|箱线图|color, fill, alpha, notch, width
+geom_density()|密度图|color, fill, alpha, linetype
+geom_histogram()|直方图|color, fill, alpha, linetype, binwidth
+geom_hline()|水平线|color, aplha, linetype, size
+geom_jitter()|抖动点|color, size, alpha, shape
+geom_line()|线图|colorvalpha, linetype, size
+geom_point()|散点图|color, alpha, shape, size
+geom_rug()|地毯图|color, sides
+geom_smooth()|拟合曲线|method, formula, color, fill, linetype, size
+geom_text()|文字注解|...
+geom_violin()|提琴图|color, fill, alpha, linetype
+geom_vline()|垂线|color, alpha, linetype, size
+
+ - **几何函数的常见选项**
+
+选项|详述
+-|-
+color|对点、线和填充区域的边界进行着色_____________________________________________________________________________________________________________________                                                                                                                                
+fill|对填充区域着色，如条形和密度区域
+alpha|颜色的透明度，从0（完全透明）到1（不透明）
+linetype|图案的线条（1=实线，2=虚线，3=点，4=点破折号，5=长破折号，6=双破折号）
+size|点的尺寸和线的宽度
+shape|点的形状（和pch一样，0=开放的方形，1=开放的圆形，2=开放的三角形，等等）
+position|绘制诸如条形图和点等对象的位置。对条形图来说，'dodge'将分组条形图并排，'stacked'堆叠分组条形图，'fill'垂直地堆叠分组条形图并规范其高度相等。对于点来说，'jitter'减少点重叠。
+binwidth|直方图的宽度
+notch|表示方块图是否应为缺口（TRUE/FALSE)
+sides|地毯图的安置（"b"=底部， "l"=左部，"t"=顶部，"r"=右部，"bl"=左下部，等等）
+width|箱线图的宽度
+
+Base function|ggplot2 layer
+-|-
+curve()| geom_curve()
+hline()| geom_hline()
+lines()| geom_line()
+points()| geom_point()
+polygon()| geom_polygon()
+rect()| geom_rect()
+rug()| geom_rug()
+segments()| geom_segment()
+text()| geom_text()
+vline()| geom_vline()
+abline(lm(y ~ x))| geom_smooth(method = "lm")
+lines(density(x))| geom_density()
+lines(loess(x, y))| geom_smooth()
 
 ---
 
