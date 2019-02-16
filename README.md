@@ -70,9 +70,17 @@
 
 </details>
 
+<details><summary>统计机器学习思维导图</summary>
+
 ![](机器学习与人工智能/机器学习与人工智能.png)
 
+</details>
+
+<details><summary>分布汇总</summary>
+
 ![](pic/分布表格.jpg)
+
+</details>
 
 ### 参数估计 
 ### 假设检验
@@ -246,8 +254,14 @@ K-means算法是很典型的基于距离的聚类算法，采用距离作为相�
 
 ## 深度学习
 
-* **深度学习思维导图**
+<details><summary>深度学习知识点汇总</summary>
+
 ![](深度学习/深度学习.png)
 
-* **深度学习中的优化算法**
+</details>
+
+<details><summary>深度学习中的优化算法</summary>
+
 ![](深度学习/optimization/deep_optimization.gif)
+
+</details>
