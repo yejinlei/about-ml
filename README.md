@@ -82,9 +82,13 @@
 
 </details>
 
-<details><summary>实战</summary>
+<details><summary>R语言版</summary>
 
-<a href="./rnotebook/about-r.html">r语言教程</a>
+<p>
+    <div style="width:100%; height:350px;border:none;text-align:center">
+		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="/rnotebook/about-r.html"/>
+	</div>
+</p>
 
 </details>
 
