@@ -84,11 +84,11 @@
 
 <details><summary>R语言版</summary>
 
-<p>
-    <div style="width:100%; height:350px;border:none;text-align:center">
-		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="/rnotebook/about-r.html"/>
-	</div>
-</p>
+<html>
+<body>
+	<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="/rnotebook/about-r.html"/>
+</body>
+</html>
 
 </details>
 
