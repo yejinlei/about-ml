@@ -82,6 +82,12 @@
 
 </details>
 
+<details><summary>实战</summary>
+
+<a href="./rnotebook/about-r.html">r语言教程</a>
+
+</details>
+
 ### 参数估计 
 ### 假设检验
     假设检验是除参数估计之外的另一类重要的统计推断问题，采用的逻辑推理方法是反证法，它的基
