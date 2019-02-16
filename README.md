@@ -4,16 +4,35 @@
 
 ## 数学基础汇总
 
+<details><summary>思维导图</summary>
+
 ![](数学基础/机器学习数学基础.png)
 
+</details>
+
 ## 微积分
+
+<details><summary>思维导图</summary>
+
 ![](数学基础/微积分.png)
 
+</details>
+
 ## 线性代数
+
+<details><summary>思维导图</summary>
+
 ![](数学基础/线性代数.png)
 
+</details>
+
 ## 概率论和统计学
+
+<details><summary>思维导图</summary>
+
 ![](数学基础/贝叶斯统计学.png)
+
+</details>
 
 ## 最优化
 *1. 一般的运筹学模型，可以使用下面通用格式：*
