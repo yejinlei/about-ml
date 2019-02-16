@@ -2,33 +2,27 @@
 
 ----------
 
-## 数学基础汇总
+## 数学基础
 
-<details><summary>思维导图</summary>
+<details><summary>数学知识点汇总</summary>
 
 ![](数学基础/机器学习数学基础.png)
 
 </details>
 
-## 微积分
-
-<details><summary>思维导图</summary>
+<details><summary>微积分</summary>
 
 ![](数学基础/微积分.png)
 
 </details>
 
-## 线性代数
-
-<details><summary>思维导图</summary>
+<details><summary>线性代数</summary>
 
 ![](数学基础/线性代数.png)
 
 </details>
 
-## 概率论和统计学
-
-<details><summary>思维导图</summary>
+<details><summary>概率论和统计学</summary>
 
 ![](数学基础/贝叶斯统计学.png)
 
@@ -70,9 +64,13 @@
 
 ## 统计学习和机器学习
 
-![](机器学习与人工智能/机器学习与人工智能.png)
+<details><summary>统计机器学习算法</summary>
 
 ![](数学基础/统计机器学习.png)
+
+</details>
+
+![](机器学习与人工智能/机器学习与人工智能.png)
 
 ![](pic/分布表格.jpg)
 
