@@ -24,7 +24,7 @@
 
 <details><summary>概率论和统计学</summary>
 
-![](数学基础/贝叶斯统计学.png)
+![](数学基础/概率与统计.png)
 
 </details>
 
