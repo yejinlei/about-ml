@@ -24,11 +24,16 @@
 
 <details><summary>概率论和统计学</summary>
 
-![](数学基础/概率与统计.png)
+* 思维导图
+    ![](数学基础/概率与统计.png)
+
+* 基本概率分布
+    ![](pic/分布表格.jpg)
 
 </details>
 
-## 最优化
+<details><summary>最优化</summary>
+
 *1. 一般的运筹学模型，可以使用下面通用格式：*
 
     max或min 目标函数
@@ -60,6 +65,8 @@
 
 ##### 2、单纯形法（simplex method）
 
+</details>
+
 ----------
 
 ## 统计学习和机器学习
@@ -73,12 +80,6 @@
 <details><summary>统计机器学习思维导图</summary>
 
 ![](机器学习与人工智能/机器学习与人工智能.png)
-
-</details>
-
-<details><summary>分布汇总</summary>
-
-![](pic/分布表格.jpg)
 
 </details>
 
