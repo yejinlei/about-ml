@@ -34,26 +34,21 @@
 
 <details><summary>**V 最优化**</summary>
 
-----------
+</details>
 
 ## 二、Python/R/Octave语言
 
 <details><summary>**I Python语言**</summary>
 
-
 </details>
 
 <details><summary>**II R语言**</summary>
-
 
 </details>
 
 <details><summary>**III Octave**</summary>
 
-
 </details>
-
-----------
 
 ## 机器学习分类
 
@@ -77,8 +72,6 @@
 
 </details>
 
-----------
-
 ## 机器学习领域
 
 <details><summary>**I 图像处理领域**</summary>
@@ -93,8 +86,6 @@
 
 </details>
 
-----------
-
 ## 统计学习和机器学习
 
 <details><summary>**I 统计机器学习算法**</summary>
@@ -108,8 +99,6 @@
 ![](机器学习与人工智能/机器学习与人工智能.png)
 
 </details>
-
-----------
 
 ## 深度学习
 
