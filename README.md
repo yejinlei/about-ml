@@ -46,6 +46,10 @@
 
 <details><summary>I Python语言</summary>
 
+- [Python学习笔记](http://nbviewer.jupyter.org/github/yejinlei/about-python/tree/master/)
+- Ananconda[配置](./tools/.condarc)及pip[配置](./tools/pip.ini)
+- [Scikit-learn 0.21.x 中文文档](http://nbviewer.jupyter.org/github/yejinlei/about-python/tree/)
+
 </details>
 
 <details><summary>II R语言</summary>

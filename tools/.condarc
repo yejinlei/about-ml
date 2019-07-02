@@ -1,0 +1,11 @@
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro
+  - http://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+  - http://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+  - http://mirrors.ustc.edu.cn/anaconda/pkgs/r/
+  - http://mirrors.ustc.edu.cn/anaconda/pkgs/pro/
+show_channel_urls: true
+ssl_verify: true
