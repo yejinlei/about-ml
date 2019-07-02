@@ -46,9 +46,9 @@
 
 <details><summary>I Python语言</summary>
 
-- [Python学习笔记](http://nbviewer.jupyter.org/github/yejinlei/about-python/tree/master/)
+- [Python学习笔记](http://nbviewer.jupyter.org/github/yejinlei/about-python)
 - Ananconda[配置](./tools/.condarc)及pip[配置](./tools/pip.ini)
-- [Scikit-learn 0.21.x 中文文档](http://nbviewer.jupyter.org/github/yejinlei/about-python/tree/)
+- [Scikit-learn 0.21.x 中文文档](http://sklearn.apachecn.org)
 
 </details>
 
