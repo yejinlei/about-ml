@@ -4,61 +4,61 @@ output:
   html_document: default
 ---
 
-# R���Ի���
-## һ����������
+# R语言基础
+## 一、基本操作
 
 ```{r}
 #install.packages('ggplot2')
 library(ggplot2)
 ```
 
-## ����ggplot2��ͼ����
-  R�кü��ֻ�ͼ���ߣ���ggplot2�����������š�������ȫ���һ����ggplot2 ʵ����ͼ���﷨������һ�����������͹���ͼ�ε��������﷨����
+## 二、ggplot2绘图神器
+  R有好几种绘图工具，但ggplot2是其中最优雅、功能最全面的一个。ggplot2 实现了图形语法，这是一套用来描述和构建图形的连贯性语法规则。
   
-  - **���ٻ�ͼ����**
+  - **快速绘图函数**
   
   > qplot(x, y, ..., data, facets = NULL, margins = FALSE, geom = "auto",
   xlim = c(NA, NA), ylim = c(NA, NA), log = "", main = NULL,
   xlab = NULL, ylab = NULL, asp = NA, stat = NULL,
   position = NULL)
 
-  - **��ͼģ�庯��**
+  - **绘图模板函数**
   
   > ggplot(data = \<DATA>) + \<GEOM_FUNCTION>(mapping = aes(\<MAPPINGS>))
 
-  - **���ú���**
+  - **常用函数**
   
-����|����|ѡ��
+函数|添加|选项
 -|-|-
-geom_bar()|����ͼ|color, fill, alpha
-geom_boxplot()|����ͼ|color, fill, alpha, notch, width
-geom_density()|�ܶ�ͼ|color, fill, alpha, linetype
-geom_histogram()|ֱ��ͼ|color, fill, alpha, linetype, binwidth
-geom_hline()|ˮƽ��|color, aplha, linetype, size
-geom_jitter()|������|color, size, alpha, shape
-geom_line()|��ͼ|colorvalpha, linetype, size
-geom_point()|ɢ��ͼ|color, alpha, shape, size
-geom_rug()|��̺ͼ|color, sides
-geom_smooth()|�������|method, formula, color, fill, linetype, size
-geom_text()|����ע��|...
-geom_violin()|����ͼ|color, fill, alpha, linetype
-geom_vline()|����|color, alpha, linetype, size
+geom_bar()|条形图|color, fill, alpha
+geom_boxplot()|箱线图|color, fill, alpha, notch, width
+geom_density()|密度图|color, fill, alpha, linetype
+geom_histogram()|直方图|color, fill, alpha, linetype, binwidth
+geom_hline()|水平线|color, aplha, linetype, size
+geom_jitter()|抖动点|color, size, alpha, shape
+geom_line()|线图|colorvalpha, linetype, size
+geom_point()|散点图|color, alpha, shape, size
+geom_rug()|地毯图|color, sides
+geom_smooth()|拟合曲线|method, formula, color, fill, linetype, size
+geom_text()|文字注解|...
+geom_violin()|提琴图|color, fill, alpha, linetype
+geom_vline()|垂线|color, alpha, linetype, size
 
- - **���κ����ĳ���ѡ��**
+ - **几何函数的常见选项**
 
-ѡ��|����
+选项|详述
 -|-
-color|�Ե㡢�ߺ��������ı߽������ɫ_____________________________________________________________________________________________________________________                                                                                                                                
-fill|�����������ɫ�������κ��ܶ�����
-alpha|��ɫ��͸���ȣ���0����ȫ͸������1����͸����
-linetype|ͼ����������1=ʵ�ߣ�2=���ߣ�3=�㣬4=�����ۺţ�5=�����ۺţ�6=˫���ۺţ�
-size|��ĳߴ���ߵĿ���
-shape|�����״����pchһ����0=���ŵķ��Σ�1=���ŵ�Բ�Σ�2=���ŵ������Σ��ȵȣ�
-position|������������ͼ�͵�ȶ����λ�á�������ͼ��˵��'dodge'����������ͼ���ţ�'stacked'�ѵ���������ͼ��'fill'��ֱ�ضѵ���������ͼ���淶��߶���ȡ����ڵ���˵��'jitter'���ٵ��ص���
-binwidth|ֱ��ͼ�Ŀ���
-notch|��ʾ����ͼ�Ƿ�ӦΪȱ�ڣ�TRUE/FALSE)
-sides|��̺ͼ�İ��ã�"b"=�ײ��� "l"=�󲿣�"t"=������"r"=�Ҳ���"bl"=���²����ȵȣ�
-width|����ͼ�Ŀ���
+color|对点、线和填充区域的边界进行着色_____________________________________________________________________________________________________________________                                                                                                                                
+fill|对填充区域着色，如条形和密度区域
+alpha|颜色的透明度，从0（完全透明）到1（不透明）
+linetype|图案的线条（1=实线，2=虚线，3=点，4=点破折号，5=长破折号，6=双破折号）
+size|点的尺寸和线的宽度
+shape|点的形状（和pch一样，0=开放的方形，1=开放的圆形，2=开放的三角形，等等）
+position|绘制诸如条形图和点等对象的位置。对条形图来说，'dodge'将分组条形图并排，'stacked'堆叠分组条形图，'fill'垂直地堆叠分组条形图并规范其高度相等。对于点来说，'jitter'减少点重叠。
+binwidth|直方图的宽度
+notch|表示方块图是否应为缺口（TRUE/FALSE)
+sides|地毯图的安置（"b"=底部， "l"=左部，"t"=顶部，"r"=右部，"bl"=左下部，等等）
+width|箱线图的宽度
 
 Base function|ggplot2 layer
 -|-
@@ -78,40 +78,40 @@ lines(loess(x, y))| geom_smooth()
 
 ---
 
-# ͳ�ƻ���ѧϰ
+# 统计机器学习
 
-### �������� 
-### �������
-    ��������ǳ���������֮�����һ����Ҫ��ͳ���ƶ����⣬���õ��߼����������Ƿ�֤�������Ļ�
-    ��˼�������С����ԭ�������͡���νС����ԭ����������ΪС�����¼���һ��ʵ�����Ǽ�������
-    �ܷ����ġ�
+### 参数估计 
+### 假设检验
+    假设检验是除参数估计之外的另一类重要的统计推断问题，采用的逻辑推理方法是反证法，它的基
+    本思想可以用小概率原理来解释。所谓小概率原理，就是认为小概率事件在一次实验中是几乎不可
+    能发生的。
 	
-    ��ͳ�Ƽ�������У�����Ҫ������ֲ������趨һ�����裨�����H0����Ȼ�������ֲ��г�����
-    ͨ�������������õ�ͳ��������������������ƶϡ��ٶ������Ϊ�棬��������ù۲�������ͳ
-    �����ĸ��ʷǳ�С������Ծܾ�ԭ���裬�������Ķ����棨���������������о�����H1����
+    在统计假设检验中，首先要对总体分布参数设定一个假设（零假设H0），然后从总体分布中抽样，
+    通过样本计算所得的统计量来对总体参数进行推断。假定零假设为真，如果计算获得观测样本的统
+    计量的概率非常小，便可以拒绝原假设，接受它的对立面（称作备择假设或者研究假设H1）。
 
-- �����Լ��飬�ǡ�ͳ�Ƽ�����顱��Statistical hypothesis testing����һ�֣������Լ��������ڼ���ѧʵ����ʵ�����������֮���Ƿ��в����Լ������Ƿ������İ취��
-	- ������ˮƽ��
+- 显著性检验，是“统计假设检验”（Statistical hypothesis testing）的一种，显著性检验是用于检测科学实验中实验组与对照组之间是否有差异以及差异是否显著的办法。
+	- 显著性水平α
 	- p-value
 
-### һ����Ԫ����
+### 一、多元分析
 
-#### ��ط���
-##### ���ϵ��
-    ���ϵ����������������������֮��Ĺ�ϵ�����ϵ���ķ��ţ�+/-��������ϵ�ķ���
-	������ػ���أ�����ֵ�Ĵ�С��ʾ��ϵ��ǿ���̶ȣ���ȫ�����ʱΪ0����ȫ���ʱΪ1��
-- �������
-	- Pearson�������ϵ��������������������֮���������س̶ȡ����㹫ʽ���£�
+#### 相关分析
+##### 相关系数
+    相关系数可以用来描述定量变量之间的关系。相关系数的符号（+/-）表明关系的方向
+	（正相关或负相关），其值的大小表示关系的强弱程度（完全不相关时为0，完全相关时为1）
+- 相关类型
+	- Pearson积差相关系数衡量了两个定量变量之间的线性相关程度。计算公式如下，
 		
 		![](pic/Pearson.png)
 
-	- Spearman�ȼ����ϵ��������ּ��������֮�����س̶�
-	- Kendall��s Tau���ϵ��Ҳ��һ�ַǲ����ĵȼ���ض���
+	- Spearman等级相关系数则衡量分级定序变量之间的相关程度
+	- Kendall’s Tau相关系数也是一种非参数的等级相关度量
 
-##### 1����������ط���
+##### 1、简单线性相关分析
 
-	#R����Ƭ��
-	data("mtcars") #����32�ֲ�ͬƷ�ƵĽγ�
+	#R语言片段
+	data("mtcars") #加载32种不同品牌的轿车
 	mydata <- mtcars[, c(1,3,4,5,6,7)]
 	head(mydata, 6)
 	
@@ -149,62 +149,62 @@ lines(loess(x, y))| geom_smooth()
 	
 	n= 32 
 
-![](pic/��ط���ͼ.PNG)
+![](pic/相关分析图.PNG)
 	
-*�Խ�������ʾ���Ƿֲ�ͼ*
+*对角线上显示的是分布图*
 
-*���²���ʾ���Ǿ�������ߵ�˫����ɢ��ͼ*
+*左下部显示的是具有拟合线的双变量散点图*
 
-*���ϲ���ʾ�������ϵ���Լ�������ˮƽ*
+*右上部显示的是相关系数以及显著性水平*
 
 
-#### �������
-	����������о���������ۡ���һ���ִ�ͳ�Ʒ���������
-    ���������Ŀ���ǰѷ������һ������ֳ������࣬��Щ�಻��ʵ���趨�ģ����Ǹ������ݵ�����ȷ���ġ�
-	��������Ļ���ԭ���ǽ��нϴ�������(���롢����ϵ��)�Ķ����Ϊͬһ�࣬��������ϴ�ĸ�����벻ͬ���ࡣ
+#### 聚类分析
+	聚类分析是研究“物以类聚”的一种现代统计分析方法。
+    聚类分析的目的是把分类对象按一定规则分成若干类，这些类不是实现设定的，而是更具数据的特征确定的。
+	聚类分析的基本原则是将有较大相似性(距离、相似系数)的对象归为同一类，而将差异较大的个体归入不同的类。
 
-##### 1��k-means��ֵ�������
-K-means�㷨�Ǻܵ��͵Ļ��ھ���ľ����㷨�����þ�����Ϊ�����Ե�����ָ�꣬����Ϊ��������ľ���Խ���������ƶȾ�Խ�󡣸��㷨��Ϊ�����ɾ��뿿���Ķ�����ɵģ���˰ѵõ������Ҷ����Ĵ���Ϊ����Ŀ�ꡣK-means�㷨���̣�
+##### 1、k-means均值聚类分析
+K-means算法是很典型的基于距离的聚类算法，采用距离作为相似性的评价指标，即认为两个对象的距离越近，其相似度就越大。该算法认为簇是由距离靠近的对象组成的，因此把得到紧凑且独立的簇作为最终目标。K-means算法流程：
 	
-1��ѡȡk����ʼ���ģ���ʼ���ĵ�ѡȡ�Ծ�����Ӱ��Ƚϴ�
+1、选取k个初始质心（初始质心的选取对聚类结果影响比较大）
 
-2���Ƚ��������ģ�С����ֵֹͣ���������ѭ�����£�
+2、比较新老质心，小于阈值停止，否则继续循环如下：
 
-3��ʣ���������䵽��������ģ�����ŷ�Ͼ��룩
+3、剩余样本分配到最近的质心（采用欧氏距离）
 
-4�����¼����µ����ģ�����������ֵ��
+4、重新计算新的质心（采用样本均值）
 	
-	#R����Ƭ��
+	#R语言片段
 	library(fpc)
 	data(iris)
 	df<-iris[,c(1:4)]
-	set.seed(252964)          # k-means�Գ�ʼ���ıȽ�����
-	kmeans <- kmeans(na.omit(df), 4)    # K-means��ֵ����
-	plotcluster(na.omit(df), kmeans$cluster) # ���ɾ���ͼ
+	set.seed(252964)          # k-means对初始质心比较敏感
+	kmeans <- kmeans(na.omit(df), 4)    # K-means均值聚类
+	plotcluster(na.omit(df), kmeans$cluster) # 生成聚类图
 
 ![](pic/kmeans.PNG)
 
-#### �������
-##### 1���򵥷������
-##### 2��Э�������
+#### 方差分析
+##### 1、简单方差分析
+##### 2、协方差分析
 
-#### ��ά����
-##### 1��PCA���ɷַ���
-##### 2�����ӷ���
-##### 3����Ӧ����
+#### 降维方法
+##### 1、PCA主成分分析
+##### 2、因子分析
+##### 3、对应分析
 
-#### �ع����
-##### 1�������Իع�
+#### 回归分析
+##### 1、简单线性回归
 
-	#R����Ƭ��
+	#R语言片段
 	x <- c(151,174,138,186,128,136,179,163,152,131)
 	y <- c(63,81,56,91,47,57,76,72,62,48)
 	model <- lm(y~x)
 	summary(model)
 	
-	plot(y,x,col = "red") #ԭʼ����ɢ��ͼ
-	abline(model)         #�������ֱ��
-    plot(model)           #���Ʋв�ͼ��QQͼ�����ͼ
+	plot(y,x,col = "red") #原始数据散点图
+	abline(model)         #绘制拟合直线
+    plot(model)           #绘制残差图、QQ图等诊断图
 
 	Call:
 	lm(formula = y ~ x)
@@ -218,32 +218,32 @@ K-means�㷨�Ǻܵ��͵Ļ��ھ���ľ����㷨�����þ�����Ϊ�����Ե�����ָ�꣬����Ϊ���
 	(Intercept)   -38.45509        8.04901     -4.778  0.00139 ** 
 	     x          0.67461        0.05191     12.997  1.16e-06 ***
 	---
-	Signif. codes:  0 ��***�� 0.001 ��**�� 0.01 ��*�� 0.05 ��.�� 0.1 �� �� 1
+	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 	
 	Residual standard error: 3.253 on 8 degrees of freedom
 	Multiple R-squared:  0.9548,	Adjusted R-squared:  0.9491 
 	F-statistic: 168.9 on 1 and 8 DF,  p-value: 1.164e-06
 
-- Residuals���в���в�������ͳ������ָʵ�ʹ۲�ֵ�����ֵ�����ֵ��֮��Ĳ���в�̺����й�ģ�ͻ����������Ҫ��Ϣ��
-- Coefficients���ع�ϵ����:Intercept�����ؾ࣬�ع�ϵ��ΪEstimate��
-- Residual standard error������Ŷ�R^2��:��ָ�ع�ֱ�߶Թ۲�ֵ����ϳ̶ȡ���������Ŷȵ�ͳ�����ǿɾ�ϵ�������ȷ��ϵ����R2��R2���ֵΪ1��R2��ֵԽ�ӽ�1��˵���ع�ֱ�߶Թ۲�ֵ����ϳ̶�Խ�ã���֮��R2��ֵԽС��˵���ع�ֱ�߶Թ۲�ֵ����ϳ̶�Խ�
+- Residuals（残差）：残差在数理统计中是指实际观察值与估计值（拟合值）之间的差。“残差”蕴含了有关模型基本假设的重要信息。
+- Coefficients（回归系数）:Intercept代表截距，回归系数为Estimate列
+- Residual standard error（拟合优度R^2）:是指回归直线对观测值的拟合程度。度量拟合优度的统计量是可决系数（亦称确定系数）R2。R2最大值为1。R2的值越接近1，说明回归直线对观测值的拟合程度越好；反之，R2的值越小，说明回归直线对观测值的拟合程度越差。
 	
-	![](pic/�����Իع�.PNG)
+	![](pic/简单线性回归.PNG)
 
-	![](pic/���ͼ.PNG)
+	![](pic/诊断图.PNG)
 
-- ��ͨ�в������ֵ�Ĳв�ͼ�����ƹ۲��Ԥ�⵽�����error(�в�residuals)��������(stochastic error)�Ƿ�һ�¡�������Ϊ��ϵķ�����Yֵ��������Ϊ�в�ֵ���������Խ�ӽ�0���������ϵĺ�����������֮�������ԽС��ģ��Խ�á�
-- ��̬QQ�Ĳв�ͼ��������Ϊ��׼��̬�ֲ��ķ�λ����������Ϊ����ֵ��ͨ��Q-Qͼ�ϵĵ��Ƿ���Ƶ���һ��ֱ�߸��������ڼ������������Ƿ��������̬�ֲ������Ҹ�ֱ�ߵ�б��Ϊ��׼��,�ؾ�Ϊ��ֵ��
-- ��׼���в�������ֵ�Ĳв�ͼ:
-- cookͳ�����Ĳв�ͼ:
+- 普通残差与拟合值的残差图：估计观察或预测到的误差error(残差residuals)与随机误差(stochastic error)是否一致。横坐标为拟合的方程中Y值，纵坐标为残差值。拟合曲线越接近0，则代表拟合的函数和样本点之间的误差就越小，模型越好。
+- 正态QQ的残差图：横坐标为标准正态分布的分位数，纵坐标为样本值。通过Q-Q图上的点是否近似地在一条直线附近，用于鉴别样本数据是否近似于正态分布。而且该直线的斜率为标准差,截距为均值。
+- 标准化残差开方与拟合值的残差图:
+- cook统计量的残差图:
 
-##### 2����Ԫ���Իع�
+##### 2、多元线性回归
 
-##### 3����������ģ��
-	�����Իع�ģ���еļ����У���������Ҫ�����
-	��1��������������Ӹ�˹�ֲ���Y=��Tx+�Σ����������Ρ�N(0,��2)����ô�����Y��N(��Tx,��2)������
-	��2��ģ��Ԥ������ΪE[Y]������Y=��Tx+�Σ�E[Y]=E[��Tx+��]=��Tx���Ǧ�=��Tx�����=E[Y]
-	��������ģ�Ϳ�����Ϊ�������������������չ��
-	��1��������ֲ���һ���Ǹ�˹�ֲ�������һ��ָ���ֲ���(������)���ɡ�
-	��2��ģ��Ԥ�������Ȼ������Ϊ��E[Y]��ʵ������E[T(Y)]�����������T(Y)=Y��������Y�ķֲ���һ���Ǹ�˹�ֲ���E[Y]�ͦ�=��TxҲ��һ���Ǽ򵥵���ȹ�ϵ�����ǵĹ�ϵ�æ�=g(E[Y])��������Ϊ���Ӻ��������Цǳ�Ϊ��Ȼ������
-	���������������չ����������ģ�͵�Ӧ�ñȻ�������ģ�͹㷺���ࡣ���ڹ���������������������Ϊ����������������ķֲ���ʽ�ȽϹ㣬ֻҪ��һָ���ֲ��弴�ɣ�����������������Ȼ������=��Tx�Ǧȵ����Ժ�����
+##### 3、广义线性模型
+	在线性回归模型中的假设中，有两点需要提出：
+	（1）假设因变量服从高斯分布：Y=θTx+ξ，其中误差项ξ～N(0,σ2)，那么因变量Y～N(θTx,σ2)。　　
+	（2）模型预测的输出为E[Y]，根据Y=θTx+ξ，E[Y]=E[θTx+ξ]=θTx，记η=θTx，则η=E[Y]
+	广义线性模型可以认为在以上两点假设做了扩展：
+	（1）因变量分布不一定是高斯分布，服从一个指数分布族(见下文)即可。
+	（2）模型预测输出仍然可以认为是E[Y]（实际上是E[T(Y)]，许多情况下T(Y)=Y），但是Y的分布不一定是高斯分布，E[Y]和η=θTx也不一定是简单的相等关系，它们的关系用η=g(E[Y])描述，称为连接函数，其中η称为自然参数。
+	由于以上两点的扩展，广义线性模型的应用比基本线性模型广泛许多。对于广义线性这个术语，可以理解为广义体现在因变量的分布形式比较广，只要是一指数分布族即可，而线性则体现在自然参数η=θTx是θ的线性函数。
