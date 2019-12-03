@@ -100,15 +100,15 @@
 
 ## 统计学习和机器学习
 
-<details><summary>I 统计机器学习算法</summary>
+<details><summary>I 机器学习算法关系图</summary>
 
 ![](数学基础/统计机器学习.png)
 
 </details>
 
-<details><summary>II 统计机器学习思维导图</summary>
+<details><summary>II 机器学习思维导图</summary>
 
-![](机器学习与人工智能/机器学习与人工智能.png)
+![](机器学习/有关机器学习.png)
 
 </details>
 
@@ -125,3 +125,16 @@
 ![](深度学习/optimization/deep_optimization.gif)
 
 </details>
+
+## 自助化AI中台
+
+![](自动机器学习/自动机器学习.png)
+
+### 传统自动机器学习AutoML-autosklearn
+- SMAC算法
+- 扩展数据预处理
+  1. autosklearn.pipeline.components.feature_preprocessing.add_preprocessor
+- 扩展回归
+  1. autosklearn.pipeline.components.regression.add_regressor
+- 扩展分类
+  1. autosklearn.pipeline.components.classification.add_classifier
