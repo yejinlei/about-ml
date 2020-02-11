@@ -126,7 +126,7 @@
 
 </details>
 
-## 自助化AI中台
+## AutoML&AutoDL
 
 ![](自动机器学习/自动机器学习.png)
 
