@@ -44,7 +44,7 @@
 
 ## 二、Python/R/Octave语言
 
-<details><summary>I Python语言</summary>
+<details><summary>Python语言</summary>
 
 - [Python学习笔记](http://nbviewer.jupyter.org/github/yejinlei/about-python)
 - Ananconda[配置](./tools/.condarc)及pip[配置](./tools/pip.ini)
@@ -52,11 +52,11 @@
 
 </details>
 
-<details><summary>II R语言</summary>
+<details><summary>R语言</summary>
 
 </details>
 
-<details><summary>III Octave</summary>
+<details><summary>Octave</summary>
 
 - [octave online](https://octave-online.net/)
 
@@ -64,25 +64,32 @@
 
 ## 机器学习分类
 
-<details><summary>I 有监督学习</summary>
+<details><summary>有监督学习</summary>
 
 </details>
 
-<details><summary>II 无监督学习</summary>
+<details><summary>无监督学习</summary>
 
 </details>
 
-<details><summary>III 强化学习</summary>
+<details><summary>强化学习</summary>
 
 </details> 
 
-<details><summary>IV 深度学习</summary>
+<details><summary>深度学习</summary>
 
 </details>
 
-<details><summary>V 迁移学习</summary>
+<details><summary>迁移学习</summary>
 
 </details>
+
+</details>
+
+<details><summary>元学习</summary>
+
+</details>
+
 
 ## 机器学习领域
 
@@ -128,6 +135,9 @@
 
 ## AutoML/AutoDL
 
+> AutoML as a CASH Problem
+>>  **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
+
 <details><summary>AutoML/AutoDL流程图</summary>
 
 ![](自动机器学习/自动机器学习.png)
@@ -138,18 +148,19 @@
 ---|---|---
 [automl_gs](https://github.com/minimaxir/automl-gs)|[**automl_grid_search**网格搜索策略](https://github.com/minimaxir/automl-gs/automl_gs/blob/master/automl_gs.py):<br>step1:**get_problem_config**，从[评估指标模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/metrics.yml)中获取学习类型及指标；<br>step2:**build_hp_grid函数**，使用[超参数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/hyperparameters.yml)构建所有**超参数**；<br>step3:**render_model函数**，在script目录下的[model模型模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/model)和[pipeline函数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/pipeline)中填入超参数，生成可执行的脚本；<br>step4:**train_generated_model函数**，训练模型；<br>step5:显示结果|
 [auto-sklearn](https://github.com/automl/auto-sklearn)、[文档](https://automl.github.io/auto-sklearn/master/)||
-
-### 传统自动机器学习AutoML-autosklearn
-- SMAC算法
-- 扩展数据预处理
-  1. autosklearn.pipeline.components.feature_preprocessing.add_preprocessor
-- 扩展回归
-  1. autosklearn.pipeline.components.regression.add_regressor
-- 扩展分类
-  1. autosklearn.pipeline.components.classification.add_classifier
+[h2o-3](https://github.com/h2oai/h2o-3)、[文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)|<details><summary>h2o on spark</summary>![](自动机器学习/h2o/H2O.png)</details><br>|
 
 ## 参考资料
   
-* 课程
-* 开源项目
-* 文章
+- 文档
+1. [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
+2. [H2O.ai文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
+
+- 论文
+  - 元学习
+    - [floodsung/Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers)
+
+- 文章
+1. [An Overview of AutoML Libraries Used in Industry](https://www.shangyexinzhi.com/article/313707.html)
+2. [自动机器学习：最近进展研究综述](https://www.leiphone.com/news/201908/cM4vkvgmXinZ1Cky.htmlhttps://baijiahao.baidu.com/s?id=1641540911794101828&wfr=spider&for=pc)
+3. [机器学习平台建设](https://blog.csdn.net/SoftwareTeacher/article/details/82692184)
