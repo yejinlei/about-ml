@@ -4,25 +4,25 @@
 
 ## 一、数学基础
 
-<details><summary>I 数学知识点汇总</summary>
+<details><summary>数学知识点汇总</summary>
 
 ![](数学基础/机器学习数学基础.png)
 
 </details>
 
-<details><summary>II 微积分</summary>
+<details><summary>微积分</summary>
 
 ![](数学基础/微积分.png)
 
 </details>
 
-<details><summary>III 线性代数</summary>
+<details><summary>线性代数</summary>
 
 ![](数学基础/线性代数.png)
 
 </details>
 
-<details><summary>IV 概率论和统计学</summary>
+<details><summary>概率论和统计学</summary>
 
 - 统计数据的展示
 
@@ -38,7 +38,7 @@
 
 </details>
 
-<details><summary>V 最优化</summary>
+<details><summary>最优化</summary>
 
 </details>
 
@@ -93,27 +93,27 @@
 
 ## 机器学习领域
 
-<details><summary>I 图像处理领域</summary>
+<details><summary>图像处理领域</summary>
 
 </details>
 
-<details><summary>II 自然语言领域</summary>
+<details><summary>自然语言领域</summary>
 
 </details>
 
-<details><summary>III 语音识别领域</summary>
+<details><summary>语音识别领域</summary>
 
 </details>
 
 ## 统计学习和机器学习
 
-<details><summary>I 机器学习算法关系图</summary>
+<details><summary>机器学习算法关系图</summary>
 
 ![](数学基础/统计机器学习.png)
 
 </details>
 
-<details><summary>II 机器学习思维导图</summary>
+<details><summary>机器学习思维导图</summary>
 
 ![](机器学习/有关机器学习.png)
 
@@ -121,13 +121,13 @@
 
 ## 深度学习
 
-<details><summary>I 深度学习知识点汇总</summary>
+<details><summary>深度学习知识点汇总</summary>
 
 ![](深度学习/深度学习.png)
 
 </details>
 
-<details><summary>II 深度学习中的优化算法</summary>
+<details><summary>深度学习中的优化算法</summary>
 
 ![](深度学习/optimization/deep_optimization.gif)
 
