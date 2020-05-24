@@ -135,35 +135,49 @@
 
 ## AutoML/AutoDL
 
-> AutoML as a CASH Problem
->>  **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
+1. > **AutoML as a CASH Problem**
+    >>  **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
 
-- 自动特征工程
-- 自动模型选择
-- 自动超参数优化
-- 开源项目 
-  - <details><summary>AutoML/AutoDL流程图</summary>
+    <details><summary>AutoML/AutoDL思维导图</summary>
 
-    ![](自动机器学习/自动机器学习.png)
-
+      ![](自动机器学习/自动机器学习.png)
+  
     </details>
+
+2. **自动化流程**
+   1. 自动数据清洗
+   2. 自动特征工程
+   3. 自动数据建模
+      1. 自动算法/模型选择
+      2. 自动超参数优化
+         - 网格搜索(Gird Search)
+         - 随机搜索(Random Search)
+         - 贝叶斯优化(Bayesian Optimization)
+   4. 自动模型评估
+      1. 模型度量
+      2. 模型解释
+
+3. **开源库评估**
 
   库、框架|核心组件及函数|使用与评估
   ---|---|---
-  [automl_gs](https://github.com/minimaxir/automl-gs)|[**automl_grid_search**网格搜索策略](https://github.com/minimaxir/automl-gs/automl_gs/blob/master/automl_gs.py):<br>step1:**get_problem_config**，从[评估指标模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/metrics.yml)中获取学习类型及指标；<br>step2:**build_hp_grid函数**，使用[超参数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/hyperparameters.yml)构建所有**超参数**；<br>step3:**render_model函数**，在script目录下的[model模型模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/model)和[pipeline函数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/pipeline)中填入超参数，生成可执行的脚本；<br>step4:**train_generated_model函数**，训练模型；<br>step5:显示结果|
-  [auto-sklearn](https://github.com/automl/auto-sklearn)、[文档](https://automl.github.io/auto-sklearn/master/)||
-  [h2o-3](https://github.com/h2oai/h2o-3)、[文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)|<details><summary>h2o on spark</summary>![](自动机器学习/h2o/H2O.png)</details><br>|
+  [automl_gs's github](https://github.com/minimaxir/automl-gs)、[tutorial](https://github.com/minimaxir/automl-gs/blob/master/docs/automl_gs_tutorial.ipynb)、[exampes](https://github.com/minimaxir/automl-gs-examples)|[**automl_grid_search**网格搜索策略](https://github.com/minimaxir/automl-gs/automl_gs/blob/master/automl_gs.py):<br>step1:**get_problem_config**，从[评估指标模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/metrics.yml)中获取学习类型及指标；<br>step2:**build_hp_grid函数**，使用[超参数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/hyperparameters.yml)构建所有**超参数**；<br>step3:**render_model函数**，在script目录下的[model模型模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/model)和[pipeline函数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/pipeline)中填入超参数，生成可执行的脚本；<br>step4:**train_generated_model函数**，训练模型；<br>step5:显示结果|
+  [auto-sklearn's github](https://github.com/automl/auto-sklearn)、[文档](https://automl.github.io/auto-sklearn/master/)||
+  [h2o-3's github](https://github.com/h2oai/h2o-3)、[文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)|<details><summary>h2o on spark</summary>![](自动机器学习/h2o/H2O.png)</details><br>|
 
 ## 参考资料
   
 - 文档
-1. [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
-2. [H2O.ai文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
+  - 
+  - [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
+  - [H2O.ai文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
+
 - 论文
   - 元学习
     - [floodsung/Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers)
 
 - 文章
-1. [An Overview of AutoML Libraries Used in Industry](https://www.shangyexinzhi.com/article/313707.html)
-2. [自动机器学习：最近进展研究综述](https://www.leiphone.com/news/201908/cM4vkvgmXinZ1Cky.htmlhttps://baijiahao.baidu.com/s?id=1641540911794101828&wfr=spider&for=pc)
-3. [机器学习平台建设](https://blog.csdn.net/SoftwareTeacher/article/details/82692184)
+  - [An Overview of AutoML Libraries Used in Industry](https://www.shangyexinzhi.com/article/313707.html)
+  - [自动机器学习：最近进展研究综述](https://www.leiphone.com/news/201908/cM4vkvgmXinZ1Cky.htmlhttps://baijiahao.baidu.com/s?id=1641540911794101828&wfr=spider&for=pc)
+  - [机器学习平台建设](https://blog.csdn.net/SoftwareTeacher/article/details/82692184)
+  - [使用 Hyperopt 进行参数调优（译）](https://www.jianshu.com/p/35eed1567463)
