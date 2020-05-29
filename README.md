@@ -42,26 +42,6 @@
 
 </details>
 
-## 二、Python/R/Octave语言
-
-<details><summary>Python语言</summary>
-
-- [Python学习笔记](http://nbviewer.jupyter.org/github/yejinlei/about-python)
-- Ananconda[配置](./tools/.condarc)及pip[配置](./tools/pip.ini)
-- [Scikit-learn 0.21.x 中文文档](http://sklearn.apachecn.org)
-
-</details>
-
-<details><summary>R语言</summary>
-
-</details>
-
-<details><summary>Octave</summary>
-
-- [octave online](https://octave-online.net/)
-
-</details>
-
 ## 机器学习分类
 
 <details><summary>有监督学习</summary>
@@ -105,7 +85,7 @@
 
 </details>
 
-## 统计学习和机器学习
+## 机器学习ML
 
 <details><summary>机器学习算法关系图</summary>
 
@@ -119,7 +99,7 @@
 
 </details>
 
-## 深度学习
+## 深度学习DL
 
 <details><summary>深度学习知识点汇总</summary>
 
@@ -133,7 +113,7 @@
 
 </details>
 
-## AutoML/AutoDL
+## 自动化学习AutoML/AutoDL
 
 1. > **AutoML as a CASH Problem**
     >>  **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
