@@ -34,7 +34,7 @@
 
 - 基本概率分布
 
-    ![](pic/分布表格.jpg)
+    ![](数学基础/incredibly_detailed_map_of_all_univariate_distributions.png)<br>[Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 
 </details>
 
