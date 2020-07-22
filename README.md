@@ -1,4 +1,4 @@
-# about-ml 有关机器学习
+# about-ml 有关机器学习[【github】](https://github.com/yejinlei/about-ml)
 
 ----------
 
