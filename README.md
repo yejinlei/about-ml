@@ -173,3 +173,4 @@
   - [机器学习平台建设](https://blog.csdn.net/SoftwareTeacher/article/details/82692184)
   - [使用 Hyperopt 进行参数调优（译）](https://www.jianshu.com/p/35eed1567463)
   - [如何学习AutoML在模型优化中的应用](https://zhuanlan.zhihu.com/p/150455253)
+  - [归一化激活层的进化：谷歌Quoc Le等人利用AutoML 技术发现新型ML模块](https://www.cnblogs.com/cx2016/p/12955409.html)
