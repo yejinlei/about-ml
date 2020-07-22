@@ -124,12 +124,12 @@
   
     </details>
 
-2. **自动化流程**
+2. **自动机器学习流程**
    1. 自动数据清洗
    2. 自动特征工程
    3. 自动数据建模
-      1. 自动算法/模型选择
-      2. 自动超参数优化
+      1. 自动算法选择
+      2. 自动参数优化
          - 网格搜索(Gird Search)
          - 随机搜索(Random Search)
          - 贝叶斯优化(Bayesian Optimization)
@@ -137,7 +137,18 @@
       1. 模型度量
       2. 模型解释
 
-3. **开源库评估**
+3. **自动深度学习流程**
+    1. 数据自动增强
+    2. 网络模型自动优化
+        - 网络搜索（NAS，基于强化学习、进化算法、可微分架构）
+          - 归一化自动学习和配置
+          - 激活函数自动学习和配置
+          - 损失函数自动学习和配置
+        - 网络模型自动剪枝
+        - 网络模型自动压缩/蒸馏
+    3. 网络模型量化
+
+4. **开源库评估**
 
   库、框架|核心组件及函数|使用与评估
   ---|---|---
@@ -161,3 +172,4 @@
   - [自动机器学习：最近进展研究综述](https://www.leiphone.com/news/201908/cM4vkvgmXinZ1Cky.htmlhttps://baijiahao.baidu.com/s?id=1641540911794101828&wfr=spider&for=pc)
   - [机器学习平台建设](https://blog.csdn.net/SoftwareTeacher/article/details/82692184)
   - [使用 Hyperopt 进行参数调优（译）](https://www.jianshu.com/p/35eed1567463)
+  - [如何学习AutoML在模型优化中的应用](https://zhuanlan.zhihu.com/p/150455253)
