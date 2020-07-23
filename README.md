@@ -71,7 +71,7 @@
 </details>
 
 
-## 机器学习领域
+## 面向领域
 
 <details><summary>图像处理领域</summary>
 
@@ -104,6 +104,12 @@
 <details><summary>深度学习知识点汇总</summary>
 
 ![](深度学习/深度学习.png)
+
+</details>
+
+<details><summary>深度网络模型发展方向</summary>
+
+![](深度学习/网络发展.png)
 
 </details>
 
