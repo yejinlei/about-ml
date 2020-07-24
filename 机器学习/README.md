@@ -72,7 +72,7 @@
   ## 参考资料
   1. [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) 官网
   2. [统计学习导论-基于R应用](https://share.weiyun.com/GPwQUUXy) 书籍
-  3. [《统计学习导论》R语言代码整理](https://blog.csdn.net/weixin_43761124/article/details/103666458?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param) 代码片段
+  3. [《统计学习导论》R语言代码整理](https://blog.csdn.net/weixin_43761124/article/details/103666458?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param) 代码片段、思维导图
   4. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) 官网
   5. [ESL CN](https://esl.hohoweiya.xyz/index.html) 笔记
   6. [统计学习基础](https://share.weiyun.com/iQe5kDa3) 书籍
