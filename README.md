@@ -111,6 +111,10 @@
 
 ![](深度学习/网络发展.png)
 
+Deeper：网络层数更深，代表网络VggNet
+Module：采用模块化的网络结构（Inception），代表网络GoogleNet
+Faster：轻量级网络模型，适合于移动端设备，代表网络MobileNet和ShuffleNet
+Functional：功能型网络，针对特定使用场景而发展出来。如检测模型YOLO，Faster RCNN；分割模型FCN，UNet
 </details>
 
 <details><summary>深度学习中的优化算法</summary>
@@ -135,7 +139,7 @@
    2. 自动特征工程
    3. 自动数据建模
       1. 自动算法选择
-      2. 自动参数优化
+      2. 自动超参数优化
          - 网格搜索(Gird Search)
          - 随机搜索(Random Search)
          - 贝叶斯优化(Bayesian Optimization)
@@ -146,7 +150,8 @@
 3. **自动深度学习流程**
     1. 数据自动增强
     2. 网络模型自动优化
-        - 网络搜索（NAS，基于强化学习、进化算法、可微分架构）
+        - 超参数自动搜索
+        - 网络结构搜索（NAS，基于强化学习、进化算法、可微分架构）
           - 归一化自动学习和配置
           - 激活函数自动学习和配置
           - 损失函数自动学习和配置
@@ -156,11 +161,15 @@
 
 4. **开源库评估**
 
-  库、框架|核心组件及函数|使用与评估
-  ---|---|---
-  [automl_gs's github](https://github.com/minimaxir/automl-gs)、[tutorial](https://github.com/minimaxir/automl-gs/blob/master/docs/automl_gs_tutorial.ipynb)、[exampes](https://github.com/minimaxir/automl-gs-examples)|[**automl_grid_search**网格搜索策略](https://github.com/minimaxir/automl-gs/automl_gs/blob/master/automl_gs.py):<br>step1:**get_problem_config**，从[评估指标模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/metrics.yml)中获取学习类型及指标；<br>step2:**build_hp_grid函数**，使用[超参数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/hyperparameters.yml)构建所有**超参数**；<br>step3:**render_model函数**，在script目录下的[model模型模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/model)和[pipeline函数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/pipeline)中填入超参数，生成可执行的脚本；<br>step4:**train_generated_model函数**，训练模型；<br>step5:显示结果|
-  [auto-sklearn's github](https://github.com/automl/auto-sklearn)、[文档](https://automl.github.io/auto-sklearn/master/)||
-  [h2o-3's github](https://github.com/h2oai/h2o-3)、[文档](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)|<details><summary>h2o on spark</summary>![](自动机器学习/h2o/H2O.png)</details><br>|
+  简介|库、框架|核心组件及函数|使用与评估
+  ---|---|---|---
+  _|hyperparameter_hunter<br>[github](https://github.com/HunterMcGushion/hyperparameter_hunter/tree/v3.0.0)||
+  _|automl_gs<br>[github](https://github.com/minimaxir/automl-gs)、[tutorial](https://github.com/minimaxir/automl-gs/blob/master/docs/automl_gs_tutorial.ipynb)、[exampes](https://github.com/minimaxir/automl-gs-examples)|[**automl_grid_search**网格搜索策略](https://github.com/minimaxir/automl-gs/automl_gs/blob/master/automl_gs.py):<br>step1:**get_problem_config**，从[评估指标模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/metrics.yml)中获取学习类型及指标；<br>step2:**build_hp_grid函数**，使用[超参数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/hyperparameters.yml)构建所有**超参数**；<br>step3:**render_model函数**，在script目录下的[model模型模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/model)和[pipeline函数模板](https://github.com/minimaxir/automl-gs/blob/master/automl_gs/templates/scripts/pipeline)中填入超参数，生成可执行的脚本；<br>step4:**train_generated_model函数**，训练模型；<br>step5:显示结果|
+   _ |auto-sklearn<br>[github](https://github.com/automl/auto-sklearn)、[doc](https://automl.github.io/auto-sklearn/master/)||
+  _ |h2o-3<br>[github](https://github.com/h2oai/h2o-3)、[doc](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)|<details><summary>h2o on spark</summary>![](自动机器学习/h2o/H2O.png)</details><br>|
+  _ | autokeras<br>[github](https://github.com/keras-team/autokeras)
+  _ | Auto-PyTorch<br>[github](https://github.com/automl/Auto-PyTorch)
+  _ | nni<br>[github](https://github.com/Microsoft/nni.git)、[doc](https://github.com/microsoft/nni/blob/master/README_zh_CN.md)
 
 ## 参考资料
   
@@ -180,3 +189,4 @@
   - [使用 Hyperopt 进行参数调优（译）](https://www.jianshu.com/p/35eed1567463)
   - [如何学习AutoML在模型优化中的应用](https://zhuanlan.zhihu.com/p/150455253)
   - [归一化激活层的进化：谷歌Quoc Le等人利用AutoML 技术发现新型ML模块](https://www.cnblogs.com/cx2016/p/12955409.html)
+  - [论文解读: Auto HAS - 结合超参数搜索和NAS](https://zhuanlan.zhihu.com/p/149888426?from_voters_page=true)
