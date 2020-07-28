@@ -71,7 +71,7 @@
 
   ## 参考资料
   1. [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) 官网
-  2. [统计学习导论-基于R应用](https://share.weiyun.com/GPwQUUXy) 书籍
+  2. [统计学习导论-基于R应用](https://share.weiyun.com/OcNecU9F) 书籍
   3. [《统计学习导论》R语言代码整理](https://blog.csdn.net/weixin_43761124/article/details/103666458?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param) 代码片段、思维导图
   4. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) 官网
   5. [ESL CN](https://esl.hohoweiya.xyz/index.html) 笔记
@@ -82,3 +82,10 @@
   10. [CS229T/STATS231: Statistical Learning Theory](http://web.stanford.edu/class/cs229t/) 官网，[讲义](https://web.stanford.edu/class/cs229t/notes.pdf)
   11. [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) 讲义
   12. [YC-Coder-Chen/feature-engineering-handbook](https://nbviewer.jupyter.org/github/YC-Coder-Chen/feature-engineering-handbook/tree/master/%E4%B8%AD%E6%96%87%E7%89%88/) 代码片段
+  13. [使用sklearn做单机特征工程](https://www.cnblogs.com/jasonfreak/p/5448385.html) 代码片段
+  14. [R语言数据处理120题](https://www.kesci.com/home/project/5f14ff3094d484002d28bbcb) 代码片段
+  15. [Pandas进阶修炼120题](https://www.kesci.com/home/project/5ef96ce863975d002c95fd8a) 代码片段
+  16. [数据分析专题系列](https://mp.weixin.qq.com/s/WvgOlFGK0FToobl9ws2oSQ) 代码片段
+  17. [低维度特征可视化与强特征构造](https://www.kesci.com/home/project/59f687e1c5f3f511952baca0) 代码片段
+  18. [数据分析:R语言实战](https://share.weiyun.com/b9sPiGPW) 书籍
+  19. [机器学习中如何处理不平衡数据？](https://zhuanlan.zhihu.com/p/56960799) 文章
