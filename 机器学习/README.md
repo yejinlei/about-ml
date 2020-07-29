@@ -89,3 +89,6 @@
   17. [低维度特征可视化与强特征构造](https://www.kesci.com/home/project/59f687e1c5f3f511952baca0) 代码片段
   18. [数据分析:R语言实战](https://share.weiyun.com/b9sPiGPW) 书籍
   19. [机器学习中如何处理不平衡数据？](https://zhuanlan.zhihu.com/p/56960799) 文章
+  20. [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/overview.html) 书籍
+  21. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) 书籍
+  22. [深度了解特征工程](https://zhuanlan.zhihu.com/p/111296130) 文章
