@@ -92,3 +92,5 @@
   20. [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/overview.html) 书籍
   21. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) 书籍
   22. [深度了解特征工程](https://zhuanlan.zhihu.com/p/111296130) 文章
+  23. [机器学习中如何处理不平衡数据？](https://zhuanlan.zhihu.com/p/56960799) 文章
+  24. [HopeR：R语言时间序列分析](https://zhuanlan.zhihu.com/p/88812182) 文章
