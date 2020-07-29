@@ -89,3 +89,4 @@
   17. [低维度特征可视化与强特征构造](https://www.kesci.com/home/project/59f687e1c5f3f511952baca0) 代码片段
   18. [数据分析:R语言实战](https://share.weiyun.com/b9sPiGPW) 书籍
   19. [机器学习中如何处理不平衡数据？](https://zhuanlan.zhihu.com/p/56960799) 文章
+  20. [HopeR：R语言时间序列分析](https://zhuanlan.zhihu.com/p/88812182) 文章
