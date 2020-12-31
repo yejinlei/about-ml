@@ -7,3 +7,4 @@
 1. [rstudio cheatsheets](https://gitee.com/yejinlei-mirror/rstudio-cheatsheets)
 2. [R for Data Science](https://r4ds.had.co.nz/index.html)
 3. [Geocomputation with R](https://geocompr.robinlovelace.net/)
+4. [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/index.html)
