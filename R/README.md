@@ -6,3 +6,4 @@
 ### 参考资料
 1. [rstudio cheatsheets](https://gitee.com/yejinlei-mirror/rstudio-cheatsheets)
 2. [R for Data Science](https://r4ds.had.co.nz/index.html)
+3. [Geocomputation with R](https://geocompr.robinlovelace.net/)
