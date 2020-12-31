@@ -11,3 +11,4 @@
 5. [Machine Learning with R, tidyverse, and mlr](https://share.weiyun.com/X4XRMj6A)
 6. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 7. [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/index.html)
+8. [Mastering Spark with R](https://therinspark.com/)
