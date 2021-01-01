@@ -12,3 +12,4 @@
 6. [Geocomputation with R](https://geocompr.robinlovelace.net/)
 7. [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/index.html)
 8. [Mastering Spark with R](https://therinspark.com/)
+9. [R extensions, tools and resources for Apache Spark](https://github.com/r-spark)
