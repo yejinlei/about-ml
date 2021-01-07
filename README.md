@@ -67,7 +67,6 @@
 </details>
 
 <details><summary>元学习</summary>
-
 </details>
 
 
@@ -126,15 +125,18 @@ Functional：功能型网络，针对特定使用场景而发展出来。如检�
 ## 自动化学习AutoML/AutoDL
 
 1. > **AutoML as a CASH Problem**
-    >>  **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
+   >> **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
 
-    <details><summary>AutoML/AutoDL思维导图</summary>
+ <details><summary>AutoML/AutoDL概览</summary>
 
-      ![](自动机器学习/自动机器学习.png)
-  
-    </details>
+     ![](automl/pipeline.png)
+    
+     ![](automl/自动机器学习.png)
+
+ </details>
 
 2. **自动机器学习流程**
+   
    1. 自动数据清洗
    2. 自动特征工程
    3. 自动数据建模
@@ -145,9 +147,10 @@ Functional：功能型网络，针对特定使用场景而发展出来。如检�
          - 贝叶斯优化(Bayesian Optimization)
    4. 自动模型评估
       1. 模型度量
-      2. 模型解释
-
+   2. 模型解释
+   
 3. **自动深度学习流程**
+   
     1. 数据自动增强
     2. 网络模型自动优化
         - 超参数自动搜索
@@ -157,8 +160,8 @@ Functional：功能型网络，针对特定使用场景而发展出来。如检�
           - 损失函数自动学习和配置
         - 网络模型自动剪枝
         - 网络模型自动压缩/蒸馏
-    3. 网络模型量化
-
+3. 网络模型量化
+   
 4. **开源库评估**
 
   简介|库、框架|核心组件及函数|使用与评估
@@ -172,7 +175,7 @@ Functional：功能型网络，针对特定使用场景而发展出来。如检�
   _ | nni<br>[github](https://github.com/Microsoft/nni.git)、[doc](https://github.com/microsoft/nni/blob/master/README_zh_CN.md)
 
 ## 参考资料
-  
+
 - 文档
   - 
   - [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
