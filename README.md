@@ -125,18 +125,20 @@ Functional：功能型网络，针对特定使用场景而发展出来。如检�
 ## 自动化学习AutoML/AutoDL
 
 1. > **AutoML as a CASH Problem**
-   >> **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
+   >
+   > > **C**ombined **A**lgorithm **S**election and **H**yperparameter optimization
 
  <details><summary>AutoML/AutoDL概览</summary>
 
-     ![](automl/pipeline.png)
-    
-     ![](automl/自动机器学习.png)
+ ![](automl/pipeline.png)
+ 
+ ---
+ 
+ ![](automl/自动机器学习.png)
 
- </details>
+  </details>
 
 2. **自动机器学习流程**
-   
    1. 自动数据清洗
    2. 自动特征工程
    3. 自动数据建模
