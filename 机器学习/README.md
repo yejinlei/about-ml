@@ -93,3 +93,4 @@
   21. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) 书籍
   22. [深度了解特征工程](https://zhuanlan.zhihu.com/p/111296130) 文章
   23. [HopeR：R语言时间序列分析](https://zhuanlan.zhihu.com/p/88812182) 文章
+  24. [机器学习评估指标](https://zhuanlan.zhihu.com/p/36305931) 文章
