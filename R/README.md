@@ -15,3 +15,4 @@
 9. [R extensions, tools and resources for Apache Spark](https://github.com/r-spark)
 10. [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 11. [Introduction to Machine Learning (I2ML)](https://introduction-to-machine-learning.netlify.app/)、[content](https://compstat-lmu.github.io/lecture_i2ml/articles/content.html)、[github](https://github.com/compstat-lmu/lecture_i2ml)
+12. [Applied Predictive Modeling](http://appliedpredictivemodeling.com/)
