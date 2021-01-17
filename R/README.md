@@ -28,7 +28,7 @@
 
 12. [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
-13. [An Introduction to Statistical Learning with Applications in R](https://statlearning.com/)（统计学习导论：基于 R 应用）, 简称**ISL**(频率派)；[R code](https://statlearning.com/All Labs.txt), [Python code](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning), [nbviewer](https://nbviewer.jupyter.org/github/hardikkamboj/An-Introduction-to-Statistical-Learning/tree/master/)
+13. [An Introduction to Statistical Learning with Applications in R](https://statlearning.com/)（统计学习导论：基于 R 应用）, 简称**ISL**(频率派)；[R code](https://statlearning.com/All%20Labs.txt), [Python code](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning), [nbviewer](https://nbviewer.jupyter.org/github/hardikkamboj/An-Introduction-to-Statistical-Learning/tree/master/)
 
 14. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), 简称**ESL**(频率派)
 
