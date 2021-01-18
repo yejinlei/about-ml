@@ -6,7 +6,7 @@
 ### 参考资料
 1. [The Big R-Book](https://share.weiyun.com/h9Z4VxFx)
 
-2. [rstudio cheatsheets](https://gitee.com/yejinlei-mirror/rstudio-cheatsheets)
+2. [rstudio cheatsheets](https://rstudio.com/resources/cheatsheets/), [github](https://gitee.com/yejinlei-mirror/rstudio-cheatsheets)
 
 3. [R for Data Science](https://r4ds.had.co.nz/index.html)
 
@@ -28,7 +28,7 @@
 
 12. [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
-13. [An Introduction to Statistical Learning with Applications in R](https://statlearning.com/)（统计学习导论：基于 R 应用）, 简称**ISLR**(频率派)；[Donwload](https://statlearning.com/ISLR%20Seventh%20Printing.pdf), [R code](https://statlearning.com/All%20Labs.txt), [Python code](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning), [nbviewer](https://nbviewer.jupyter.org/github/hardikkamboj/An-Introduction-to-Statistical-Learning/tree/master/), [配套视频](https://www.bilibili.com/video/av60874013/)
+13. [An Introduction to Statistical Learning with Applications in R](https://statlearning.com/)（统计学习导论：基于 R 应用）, 简称**ISLR**(频率派), [Donwload](https://statlearning.com/ISLR%20Seventh%20Printing.pdf), [R code](https://statlearning.com/All%20Labs.txt), [Python code](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning), [nbviewer](https://nbviewer.jupyter.org/github/hardikkamboj/An-Introduction-to-Statistical-Learning/tree/master/), [配套视频](https://www.bilibili.com/video/av60874013/)
 
 14. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), 简称**ESL**(频率派)
 
