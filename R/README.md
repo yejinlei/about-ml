@@ -36,5 +36,10 @@
 
 16. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/), 简称**RPML**(贝叶斯派)
 
+17. cheatsheets list
+	* [rstudio's cheatsheets](https://rstudio.com/resources/cheatsheets/)
+* [ggplot2中文](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/data-visualization-2.1.pdf)
+    * [sparklyr中文](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
+    
     
 
