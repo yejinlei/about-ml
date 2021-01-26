@@ -6,7 +6,7 @@
 
 1. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 2. [Machine learning, in NumPy](https://numpy-ml.readthedocs.io/en/latest/)
-3. [Dive into Deep Learning](https://d2l.ai/index.html)
+3. [Dive into Deep Learning原版](https://d2l.ai/index.html), [mxnet中文版](http://zh.gluon.ai/index.html), [pytorch中文版](http://tangshusen.me/Dive-into-DL-PyTorch/)
 4. [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
 5. [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
 6. [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
