@@ -38,7 +38,7 @@
 
 17. cheatsheets list
 	* [rstudio's cheatsheets](https://rstudio.com/resources/cheatsheets/)
-* [ggplot2中文](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/data-visualization-2.1.pdf)
+    * [ggplot2中文](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/data-visualization-2.1.pdf)
     * [sparklyr中文](https://github.com/rstudio/cheatsheets/raw/master/translations/chinese/sparklyr-cheatsheet_zh_CN.pdf)
     
     
